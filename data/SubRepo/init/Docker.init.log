@@ -1,0 +1,232 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:09:37
+Ê±¼ä´Á£º20181219210937
+Ä¿Â¼Ãû: Docker 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/Docker/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 8abb2e0] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\Docker\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master d12ad00] Commit_1 : + All file
+ 145 files changed, 7852 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/Readme/assets/green-check.svg
+ create mode 100644 doc/TODO.txt
+ create mode 100644 doc/md/docker/1535707891599.png
+ create mode 100644 doc/md/docker/1535707942475.png
+ create mode 100644 doc/md/docker/1535707976594.png
+ create mode 100644 doc/md/docker/1535708028027.png
+ create mode 100644 doc/md/docker/1535708049914.png
+ create mode 100644 doc/md/docker/1535708059536.png
+ create mode 100644 doc/md/docker/1538179793376.png
+ create mode 100644 doc/md/docker/1538204318442.png
+ create mode 100644 doc/md/docker/1538205542757.png
+ create mode 100644 doc/md/docker/1538209096174.png
+ create mode 100644 doc/md/docker/1538209122316.png
+ create mode 100644 doc/md/docker/1538209735450.png
+ create mode 100644 doc/md/docker/1538210011991.png
+ create mode 100644 doc/md/docker/1538211202985.png
+ create mode 100644 doc/md/docker/1538273772522.png
+ create mode 100644 doc/md/docker/1538273986512.png
+ create mode 100644 doc/md/docker/1538275210672.png
+ create mode 100644 doc/md/docker/1538275268972.png
+ create mode 100644 doc/md/docker/wps12BF.tmp.jpg
+ create mode 100644 doc/md/docker/wps12D0.tmp.jpg
+ create mode 100644 doc/md/docker/wps12F5.tmp.jpg
+ create mode 100644 doc/md/docker/wps1306.tmp.jpg
+ create mode 100644 doc/md/docker/wps1307.tmp.jpg
+ create mode 100644 doc/md/docker/wps1318.tmp.jpg
+ create mode 100644 doc/md/docker/wps1319.tmp.jpg
+ create mode 100644 doc/md/docker/wps1329.tmp.jpg
+ create mode 100644 doc/md/docker/wps132A.tmp.jpg
+ create mode 100644 doc/md/docker/wps132B.tmp.jpg
+ create mode 100644 doc/md/docker/wps133C.tmp.jpg
+ create mode 100644 doc/md/docker/wps133D.tmp.jpg
+ create mode 100644 doc/md/docker/wps134D.tmp.jpg
+ create mode 100644 doc/md/docker/wps134E.tmp.jpg
+ create mode 100644 doc/md/docker/wps134F.tmp.jpg
+ create mode 100644 doc/md/docker/wps1360.tmp.jpg
+ create mode 100644 doc/md/docker/wps1361.tmp.jpg
+ create mode 100644 doc/md/docker/wps1372.tmp.jpg
+ create mode 100644 doc/md/docker/wps1373.tmp.jpg
+ create mode 100644 doc/md/docker/wps1383.tmp.jpg
+ create mode 100644 doc/md/docker/wps1384.tmp.jpg
+ create mode 100644 doc/md/docker/wps1385.tmp.jpg
+ create mode 100644 doc/md/docker/wps1396.tmp.jpg
+ create mode 100644 doc/md/dockeræŠ€æœ¯.md
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/applications_folder.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/b2d_shell.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/browse-images.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/change-folder.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/cli-access-button.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/cli-redis-container.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/cli-terminal.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/finish.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/icon-set.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/installer_open.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/mac-page-finished.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/mac-page-quickstart.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/mac-page-two.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/mac-password-prompt.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/mac-welcome-page.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-create.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-data-volume.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-login.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-map.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-port.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-restart.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/minecraft-server-address.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-2048-files-1540012665547.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-2048.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-create-1540012491038.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-data-folder.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-data-volume.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-hello-world.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-preview-1540012543351.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/nginx-serving-2048-1540012666368.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/rethink-container.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/rethink-create.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/rethink-ports.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/rethinkdb-preview.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/terminal.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/toolbox-installer.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/virtualization.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/DockerToolbox_img/volumes-dir.png
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/Toolbox.md
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/Toolbox_Kitematic.md
+ create mode 100644 doc/æ‰‹å†Œ/Docker Toolbox/index.md
+ create mode 100644 doc/èµ„æ–™/Docker Toolbox é•œåƒæºç«™.md
+ create mode 100644 doc/èµ„æ–™/Docker Toolboxæ›¿æ¢é»˜è®¤docker machineçš„å­˜å‚¨ä½ç½®/Docker Toolboxæ›¿æ¢é»˜è®¤docker machineå­˜å‚¨ä½ç½®å’Œé•œåƒåŠ é€Ÿ.md
+ create mode 100644 doc/èµ„æ–™/Docker é•œåƒåŠ é€Ÿå™¨.md
+ create mode 100644 doc/èµ„æ–™/Docker é•œåƒçš„åŸºæœ¬ä½¿ç”¨.md
+ create mode 100644 doc/èµ„æ–™/Docker-Toolboxå¸¸è§é—®é¢˜è§£å†³æ–¹æ¡ˆ.md
+ create mode 100644 doc/èµ„æ–™/FAQ.MD
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540131625880.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540132622414.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540133670287.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540134746318.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540135379451.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540136596454.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540136621426.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540138126088.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540139120665.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540139808399.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540140178964.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540142032875.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540143592608.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540143809352.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540143868659.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540144435153.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540144803550.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540145346814.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/assets/1540147131958.png
+ create mode 100644 doc/èµ„æ–™/cn/kitematic/kitematic_cn.md
+ create mode 100644 doc/èµ„æ–™/è®¾ç½®docker machineçš„å­˜å‚¨ä½ç½®å’ŒCA è¯ä¹¦è·¯å¾„.bat
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Docker\doc\md\docker¼¼Êõ.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Docker\doc\md\index.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 9e555bc] Commit_3 : + md's YAML
+ 2 files changed, 24 insertions(+)
+ create mode 100644 doc/md/dockeræŠ€æœ¯.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Docker.20181219210937.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Docker.20181219210937.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Docker.20181219210937.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Docker.20181219210937.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 9e555bc Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 9e555bc7073437089df35487b61b192cbf689804
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:52 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit d12ad005d616b604e17e83cb61794cd871c2a1e3
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:50 2018 +0800
+
+    Commit_1 : + All file
+
+commit 8abb2e08ea4de408d76ab2adbc893c9219a66c0e
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:42 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

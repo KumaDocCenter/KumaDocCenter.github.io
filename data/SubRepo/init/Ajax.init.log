@@ -1,0 +1,559 @@
+ִ�в���... 
+����ʱ�䣺2018-12-19 21:08:29
+ʱ�����20181219210829
+Ŀ¼��: Ajax 
+------------------------ �ֿ�����  ------------------------ 
+��ʼ���ֿ�...
+Initialized empty Git repository in K:/DevDocCenter/Ajax/.git/
+�����û���...
+��������... 
+�����ύ����...
+����Զ�ֿ̲�...
+------------------------ �ֿ�����  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+��� .gitignore...
+���ӵ��ݴ�...
+git�ύ...
+[master (root-commit) 4ed3980] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+��� .gitignore...
+���� .gitattributes... 
+K:\DevDocCenter\Ajax\Script\sh\.gitattributes
+������ 1 ���ļ�
+���ӵ��ݴ�...
+git�ύ...
+[master 9570d10] Commit_1 : + All file
+ 464 files changed, 9683 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/Ajax和JSON.md
+ create mode 100644 doc/md/Ajax和JSON案例.md
+ create mode 100644 doc/md/Ajax高级.md
+ create mode 100644 doc/md/assets/1533125567093.png
+ create mode 100644 doc/md/assets/1533174381333.png
+ create mode 100644 doc/md/assets/1533175827721.png
+ create mode 100644 doc/md/assets/1533177261715.png
+ create mode 100644 doc/md/assets/1533177608297.png
+ create mode 100644 doc/md/assets/1533180007890.png
+ create mode 100644 doc/md/assets/1533180011414.png
+ create mode 100644 doc/md/assets/1533180139583.png
+ create mode 100644 doc/md/assets/1533180161621.png
+ create mode 100644 doc/md/assets/1533180570079.png
+ create mode 100644 doc/md/assets/1533180660810.png
+ create mode 100644 doc/md/assets/1533180814951.png
+ create mode 100644 doc/md/assets/1533180943150.png
+ create mode 100644 doc/md/assets/1533181730505.png
+ create mode 100644 doc/md/assets/1533182159575.png
+ create mode 100644 doc/md/assets/1533192545261.png
+ create mode 100644 doc/md/assets/1533193705248.png
+ create mode 100644 doc/md/assets/1533194423187.png
+ create mode 100644 doc/md/assets/1533197397016.png
+ create mode 100644 doc/md/assets/1533199284315.png
+ create mode 100644 doc/md/assets/1533199930967.png
+ create mode 100644 doc/md/assets/1533200880147.png
+ create mode 100644 doc/md/assets/1533202243022.png
+ create mode 100644 doc/md/assets/1533258293973.png
+ create mode 100644 doc/md/assets/1533260844528.png
+ create mode 100644 doc/md/assets/1533260844528_2.png
+ create mode 100644 doc/md/assets/1533263744523.png
+ create mode 100644 doc/md/assets/1533264032807.png
+ create mode 100644 doc/md/assets/1533266832968.png
+ create mode 100644 doc/md/assets/1533279318595.png
+ create mode 100644 doc/md/assets/1533279363257.png
+ create mode 100644 doc/md/assets/1533279768247.png
+ create mode 100644 doc/md/assets/1533279805601.png
+ create mode 100644 doc/md/assets/1533279927449.png
+ create mode 100644 doc/md/assets/1533279943817.png
+ create mode 100644 doc/md/assets/1533280062394.png
+ create mode 100644 doc/md/assets/1533280180825.png
+ create mode 100644 doc/md/assets/1533280931981.png
+ create mode 100644 doc/md/assets/1533282424397.png
+ create mode 100644 doc/md/assets/1533282693359.png
+ create mode 100644 doc/md/assets/1533284715276.png
+ create mode 100644 doc/md/assets/1533284908730.png
+ create mode 100644 doc/md/assets/1533285162418.png
+ create mode 100644 doc/md/assets/1533287223815.png
+ create mode 100644 doc/md/assets/clip_image002.jpg
+ create mode 100644 doc/md/assets/clip_image040.jpg
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/手册/.gitkeep
+ create mode 100644 doc/资料/AJAX新手快车道.pdf
+ create mode 100644 doc/资料/ajax教程.chm
+ create mode 100644 doc/资料/学生表数据.txt
+ create mode 100644 doc/资料/省市县三级联动资料/ajax.sql
+ create mode 100644 doc/资料/省市县三级联动资料/city.rar
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/0.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/101.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/101001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/102.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/102001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/103.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/103001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/104.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/104001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/105011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/106011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/107012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/108014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/109009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/110013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/111013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/112011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/113017.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/114009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/115011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/116017.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/117017.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/118014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/119014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120017.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120018.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120019.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120020.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/120021.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/121014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/122.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/122001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/122002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/122003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123017.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123018.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123019.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123020.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/123021.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/124009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/125016.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/126007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/127010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/128013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/129008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/130005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131002.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131003.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131004.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131005.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131006.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131007.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131008.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131009.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131010.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131011.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131012.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131013.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131014.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/131015.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/132.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/132001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/133.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/133001.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/134.json
+ create mode 100644 doc/资料/省市县三级联动资料/citydata/134001.json
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ���ƹ���  ------------------------
+------------------------ ���ƹ���  ------------------------
+------------------------ YAML���  ------------------------
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Ajax\doc\md\Ajax��JSON.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Ajax\doc\md\Ajax��JSON����.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Ajax\doc\md\Ajax�߼�.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Ajax\doc\md\index.md.YAML ]
+
+���ӵ��ݴ�...
+git�ύ...
+[master b2c9a6f] Commit_3 : + md's YAML
+ 4 files changed, 48 insertions(+)
+ create mode 100644 doc/md/Ajax和JSON.md.YAML
+ create mode 100644 doc/md/Ajax和JSON案例.md.YAML
+ create mode 100644 doc/md/Ajax高级.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAML���  ------------------------
+------------------------ �������  ------------------------
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Ajax.20181219210829.add ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Ajax.20181219210829.init ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Ajax.20181219210829.update ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Ajax.20181219210829.del ]
+
+
+------------------------ �������  ------------------------
+########################## �鿴��� ##########################
+
+* master b2c9a6f Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit b2c9a6fdc5df70af7737ce2c3581699819062072
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:49 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 9570d10d717a3efef360d8c4dfdacd7a0e6d53c3
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:45 2018 +0800
+
+    Commit_1 : + All file
+
+commit 4ed398058bd7258a3df6c020252ded0f0aeb5bf0
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:33 2018 +0800
+
+    Commit_0 : init
+
+########################## �鿴��� ##########################

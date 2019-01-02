@@ -1,0 +1,212 @@
+执行操作... 
+日期时间：2018-12-19 21:14:17
+时间戳：20181219211417
+目录名: svn 
+------------------------ 仓库配置  ------------------------ 
+初始化仓库...
+Initialized empty Git repository in K:/DevDocCenter/svn/.git/
+配置用户名...
+配置邮箱... 
+配置提交缓存...
+添加远程仓库...
+------------------------ 仓库配置  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+输出 .gitignore...
+添加到暂存...
+git提交...
+[master (root-commit) 21eee58] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+输出 .gitignore...
+复制 .gitattributes... 
+K:\DevDocCenter\svn\Script\sh\.gitattributes
+复制了 1 个文件
+添加到暂存...
+git提交...
+[master 3496596] Commit_1 : + All file
+ 125 files changed, 4949 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/SVN.md
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/md/media/image1.png
+ create mode 100644 doc/md/media/image10.png
+ create mode 100644 doc/md/media/image11.png
+ create mode 100644 doc/md/media/image12.png
+ create mode 100644 doc/md/media/image13.png
+ create mode 100644 doc/md/media/image14.png
+ create mode 100644 doc/md/media/image15.png
+ create mode 100644 doc/md/media/image16.png
+ create mode 100644 doc/md/media/image17.png
+ create mode 100644 doc/md/media/image18.png
+ create mode 100644 doc/md/media/image19.png
+ create mode 100644 doc/md/media/image2.png
+ create mode 100644 doc/md/media/image20.png
+ create mode 100644 doc/md/media/image21.png
+ create mode 100644 doc/md/media/image22.png
+ create mode 100644 doc/md/media/image23.png
+ create mode 100644 doc/md/media/image24.png
+ create mode 100644 doc/md/media/image25.png
+ create mode 100644 doc/md/media/image26.png
+ create mode 100644 doc/md/media/image27.png
+ create mode 100644 doc/md/media/image28.png
+ create mode 100644 doc/md/media/image29.png
+ create mode 100644 doc/md/media/image3.png
+ create mode 100644 doc/md/media/image30.png
+ create mode 100644 doc/md/media/image31.png
+ create mode 100644 doc/md/media/image32.png
+ create mode 100644 doc/md/media/image33.png
+ create mode 100644 doc/md/media/image34.png
+ create mode 100644 doc/md/media/image35.png
+ create mode 100644 doc/md/media/image36.png
+ create mode 100644 doc/md/media/image37.png
+ create mode 100644 doc/md/media/image38.png
+ create mode 100644 doc/md/media/image39.png
+ create mode 100644 doc/md/media/image4.png
+ create mode 100644 doc/md/media/image40.png
+ create mode 100644 doc/md/media/image41.png
+ create mode 100644 doc/md/media/image42.png
+ create mode 100644 doc/md/media/image43.png
+ create mode 100644 doc/md/media/image44.png
+ create mode 100644 doc/md/media/image45.png
+ create mode 100644 doc/md/media/image46.png
+ create mode 100644 doc/md/media/image47.png
+ create mode 100644 doc/md/media/image48.png
+ create mode 100644 doc/md/media/image49.png
+ create mode 100644 doc/md/media/image5.png
+ create mode 100644 doc/md/media/image50.png
+ create mode 100644 doc/md/media/image51.png
+ create mode 100644 doc/md/media/image52.png
+ create mode 100644 doc/md/media/image53.png
+ create mode 100644 doc/md/media/image54.png
+ create mode 100644 doc/md/media/image55.png
+ create mode 100644 doc/md/media/image56.png
+ create mode 100644 doc/md/media/image57.png
+ create mode 100644 doc/md/media/image58.png
+ create mode 100644 doc/md/media/image59.png
+ create mode 100644 doc/md/media/image6.png
+ create mode 100644 doc/md/media/image60.png
+ create mode 100644 doc/md/media/image61.png
+ create mode 100644 doc/md/media/image62.png
+ create mode 100644 doc/md/media/image63.png
+ create mode 100644 doc/md/media/image64.png
+ create mode 100644 doc/md/media/image65.png
+ create mode 100644 doc/md/media/image66.png
+ create mode 100644 doc/md/media/image67.png
+ create mode 100644 doc/md/media/image68.png
+ create mode 100644 doc/md/media/image69.png
+ create mode 100644 doc/md/media/image7.png
+ create mode 100644 doc/md/media/image70.png
+ create mode 100644 doc/md/media/image71.png
+ create mode 100644 doc/md/media/image72.png
+ create mode 100644 doc/md/media/image73.png
+ create mode 100644 doc/md/media/image74.png
+ create mode 100644 doc/md/media/image75.png
+ create mode 100644 doc/md/media/image76.png
+ create mode 100644 doc/md/media/image77.png
+ create mode 100644 doc/md/media/image78.png
+ create mode 100644 doc/md/media/image79.png
+ create mode 100644 doc/md/media/image8.png
+ create mode 100644 doc/md/media/image80.png
+ create mode 100644 doc/md/media/image81.png
+ create mode 100644 doc/md/media/image82.png
+ create mode 100644 doc/md/media/image83.png
+ create mode 100644 doc/md/media/image84.png
+ create mode 100644 doc/md/media/image85.png
+ create mode 100644 doc/md/media/image86.png
+ create mode 100644 doc/md/media/image87.png
+ create mode 100644 doc/md/media/image88.png
+ create mode 100644 doc/md/media/image89.jpeg
+ create mode 100644 doc/md/media/image9.png
+ create mode 100644 doc/md/media/image90.jpeg
+ create mode 100644 doc/鎵嬪唽/.gitkeep
+ create mode 100644 doc/璧勬枡/.gitkeep
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ 复制钩子  ------------------------
+------------------------ 复制钩子  ------------------------
+------------------------ YAML输出  ------------------------
+已复制         1 个文件。
+输出文件 [ K:\DevDocCenter\svn\doc\md\index.md.YAML ]
+
+已复制         1 个文件。
+输出文件 [ K:\DevDocCenter\svn\doc\md\SVN.md.YAML ]
+
+添加到暂存...
+git提交...
+[master 405fbc7] Commit_3 : + md's YAML
+ 2 files changed, 24 insertions(+)
+ create mode 100644 doc/md/SVN.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAML输出  ------------------------
+------------------------ 配置输出  ------------------------
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ svn.20181219211417.add ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ svn.20181219211417.init ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ svn.20181219211417.update ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ svn.20181219211417.del ]
+
+
+------------------------ 配置输出  ------------------------
+########################## 查看结果 ##########################
+
+* master 405fbc7 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 405fbc7625b044a3fae8d525216c47ea447eed9c
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:25 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 3496596228e0199e4a5e0c51f5dbe03fe66e8aff
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:14 2018 +0800
+
+    Commit_1 : + All file
+
+commit 21eee5870da0b5b9bbb17a41477af40e9ac1cff0
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:15:06 2018 +0800
+
+    Commit_0 : init
+
+########################## 查看结果 ##########################

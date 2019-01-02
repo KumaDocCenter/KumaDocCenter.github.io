@@ -1,0 +1,555 @@
+ִ�в���... 
+����ʱ�䣺2018-12-19 21:10:44
+ʱ�����20181219211044
+Ŀ¼��: js.JavaScript 
+------------------------ �ֿ�����  ------------------------ 
+��ʼ���ֿ�...
+Initialized empty Git repository in K:/DevDocCenter/js/JavaScript/.git/
+�����û���...
+��������... 
+�����ύ����...
+����Զ�ֿ̲�...
+------------------------ �ֿ�����  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+��� .gitignore...
+���ӵ��ݴ�...
+git�ύ...
+[master (root-commit) 9d1ce27] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+��� .gitignore...
+���� .gitattributes... 
+K:\DevDocCenter\js\JavaScript\Script\sh\.gitattributes
+������ 1 ���ļ�
+���ӵ��ݴ�...
+git�ύ...
+[master 10e95ef] Commit_1 : + All file
+ 432 files changed, 76518 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 Video.lnk
+ create mode 100644 doc/Readme/ECMAScript - 百度百科.url
+ create mode 100644 doc/Readme/ECMAScript - 维基百科.url
+ create mode 100644 doc/Readme/ECMAScript.txt
+ create mode 100644 doc/Readme/Ecma-International.url
+ create mode 100644 doc/Readme/Ecma国际（Ecma International）- 百度百科.url
+ create mode 100644 doc/Readme/Ecma国际（Ecma International）.txt
+ create mode 100644 doc/Readme/JScript - 百度百科.url
+ create mode 100644 doc/Readme/JScript.txt
+ create mode 100644 doc/Readme/JavaScript - 维基百科.url
+ create mode 100644 doc/Readme/JavaScript.txt
+ create mode 100644 doc/Readme/JavaScript.url
+ create mode 100644 doc/Readme/MDN/Zeal手册离线工具.txt
+ create mode 100644 doc/Readme/MDN/关于 MDN.txt
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/Readme/网页技术与标准.txt
+ create mode 100644 doc/md/Advanced/[JavaScript]DOM对象和事件.md
+ create mode 100644 doc/md/Advanced/[JavaScript]冒泡事件.md
+ create mode 100644 doc/md/Advanced/[JavaScript]基础知识.md
+ create mode 100644 doc/md/Advanced/[JavaScript]案例.md
+ create mode 100644 doc/md/Advanced/[JavaScript]闭包.md
+ create mode 100644 doc/md/Advanced/[JavaScript]阻止默认行为.md
+ create mode 100644 doc/md/Advanced/[JavaScript]面向对象编程和系统对象.md
+ create mode 100644 doc/md/Advanced/[JavaScript]高级.md
+ create mode 100644 doc/md/Advanced/assets/1532480995968.png
+ create mode 100644 doc/md/Advanced/assets/1532483722374.png
+ create mode 100644 doc/md/Advanced/assets/1532486272490.png
+ create mode 100644 doc/md/Advanced/assets/1532489584864.png
+ create mode 100644 doc/md/Advanced/assets/1532490798842.png
+ create mode 100644 doc/md/Advanced/assets/1532491148663.png
+ create mode 100644 doc/md/Advanced/assets/1532504854763.png
+ create mode 100644 doc/md/Advanced/assets/1532507344947.png
+ create mode 100644 doc/md/Advanced/assets/1532508474827.png
+ create mode 100644 doc/md/Advanced/assets/1532509186327.png
+ create mode 100644 doc/md/Advanced/assets/1532509222520.png
+ create mode 100644 doc/md/Advanced/assets/1532509411963.png
+ create mode 100644 doc/md/Advanced/assets/1532509552917.png
+ create mode 100644 doc/md/Advanced/assets/1532510809148.png
+ create mode 100644 doc/md/Advanced/assets/1532653502662.png
+ create mode 100644 doc/md/Advanced/assets/1532655701967.png
+ create mode 100644 doc/md/Advanced/assets/1532655986360.png
+ create mode 100644 doc/md/Advanced/assets/1532658777029.png
+ create mode 100644 doc/md/Advanced/assets/1532661744469.png
+ create mode 100644 doc/md/Advanced/assets/1532662266308.png
+ create mode 100644 doc/md/Advanced/assets/1532662920275.png
+ create mode 100644 doc/md/Advanced/assets/1532663358565.png
+ create mode 100644 doc/md/Advanced/assets/1532663646082.png
+ create mode 100644 doc/md/Advanced/assets/1532673721313.png
+ create mode 100644 doc/md/Advanced/assets/1532673739392.png
+ create mode 100644 doc/md/Advanced/assets/1532673908943.png
+ create mode 100644 doc/md/Advanced/assets/1532674726236.png
+ create mode 100644 doc/md/Advanced/assets/1532675176223.png
+ create mode 100644 doc/md/Advanced/assets/1532675475636.png
+ create mode 100644 doc/md/Advanced/assets/1532677837446.png
+ create mode 100644 doc/md/Advanced/assets/1532678907897.png
+ create mode 100644 doc/md/Advanced/assets/1532679083481.png
+ create mode 100644 doc/md/Advanced/assets/1532684344930.png
+ create mode 100644 doc/md/Advanced/assets/1532690579842.png
+ create mode 100644 doc/md/Advanced/assets/1532691082117.png
+ create mode 100644 doc/md/Advanced/assets/1532700499227.png
+ create mode 100644 doc/md/Advanced/assets/1532745074426.png
+ create mode 100644 doc/md/Advanced/assets/1532761709171.png
+ create mode 100644 doc/md/Advanced/assets/1532766667149.png
+ create mode 100644 doc/md/Advanced/assets/1532769108592.png
+ create mode 100644 doc/md/Advanced/assets/1532873683255.png
+ create mode 100644 doc/md/Advanced/assets/1532914035717.png
+ create mode 100644 doc/md/Advanced/assets/1532914297540.png
+ create mode 100644 doc/md/Advanced/assets/1532914487230.png
+ create mode 100644 doc/md/Advanced/assets/1532914926010.png
+ create mode 100644 doc/md/Advanced/assets/1532915915126.png
+ create mode 100644 doc/md/Advanced/assets/1532919404666.png
+ create mode 100644 doc/md/Advanced/assets/1532932707402.png
+ create mode 100644 doc/md/Advanced/assets/1532934286928.png
+ create mode 100644 doc/md/Advanced/assets/1532935336242.png
+ create mode 100644 doc/md/Advanced/assets/1532942765162.png
+ create mode 100644 doc/md/Advanced/assets/clip_image002-1532442906887.jpg
+ create mode 100644 doc/md/Advanced/assets/clip_image002.jpg
+ create mode 100644 doc/md/Advanced/assets/clip_image004-1532443887952.jpg
+ create mode 100644 doc/md/Advanced/assets/clip_image004.jpg
+ create mode 100644 doc/md/Advanced/assets/clip_image005.png
+ create mode 100644 doc/md/Advanced/index.md
+ create mode 100644 doc/md/Basics/JavaScript_Basics.md
+ create mode 100644 doc/md/Basics/media/1539447871060.png
+ create mode 100644 doc/md/Basics/media/1539447906874.png
+ create mode 100644 doc/md/Basics/media/1539448074587.png
+ create mode 100644 doc/md/Basics/media/1539448304460.png
+ create mode 100644 doc/md/Basics/media/1539448591920.png
+ create mode 100644 doc/md/Basics/media/1539448709167.png
+ create mode 100644 doc/md/Basics/media/1539448803869.png
+ create mode 100644 doc/md/Basics/media/image10.png
+ create mode 100644 doc/md/Basics/media/image100.png
+ create mode 100644 doc/md/Basics/media/image101.png
+ create mode 100644 doc/md/Basics/media/image102.png
+ create mode 100644 doc/md/Basics/media/image103.png
+ create mode 100644 doc/md/Basics/media/image104.png
+ create mode 100644 doc/md/Basics/media/image105.png
+ create mode 100644 doc/md/Basics/media/image106.png
+ create mode 100644 doc/md/Basics/media/image107.png
+ create mode 100644 doc/md/Basics/media/image108.png
+ create mode 100644 doc/md/Basics/media/image109.png
+ create mode 100644 doc/md/Basics/media/image11.png
+ create mode 100644 doc/md/Basics/media/image110.png
+ create mode 100644 doc/md/Basics/media/image111.png
+ create mode 100644 doc/md/Basics/media/image112.png
+ create mode 100644 doc/md/Basics/media/image113.png
+ create mode 100644 doc/md/Basics/media/image114.png
+ create mode 100644 doc/md/Basics/media/image115.png
+ create mode 100644 doc/md/Basics/media/image116.png
+ create mode 100644 doc/md/Basics/media/image117.png
+ create mode 100644 doc/md/Basics/media/image118.png
+ create mode 100644 doc/md/Basics/media/image119.png
+ create mode 100644 doc/md/Basics/media/image12.png
+ create mode 100644 doc/md/Basics/media/image120.png
+ create mode 100644 doc/md/Basics/media/image121.png
+ create mode 100644 doc/md/Basics/media/image122.png
+ create mode 100644 doc/md/Basics/media/image123.png
+ create mode 100644 doc/md/Basics/media/image124.png
+ create mode 100644 doc/md/Basics/media/image125.png
+ create mode 100644 doc/md/Basics/media/image126.png
+ create mode 100644 doc/md/Basics/media/image127.png
+ create mode 100644 doc/md/Basics/media/image128.png
+ create mode 100644 doc/md/Basics/media/image129.png
+ create mode 100644 doc/md/Basics/media/image13.png
+ create mode 100644 doc/md/Basics/media/image130.png
+ create mode 100644 doc/md/Basics/media/image131.png
+ create mode 100644 doc/md/Basics/media/image132.png
+ create mode 100644 doc/md/Basics/media/image133.png
+ create mode 100644 doc/md/Basics/media/image134.png
+ create mode 100644 doc/md/Basics/media/image135.png
+ create mode 100644 doc/md/Basics/media/image136.png
+ create mode 100644 doc/md/Basics/media/image137.png
+ create mode 100644 doc/md/Basics/media/image138.png
+ create mode 100644 doc/md/Basics/media/image139.png
+ create mode 100644 doc/md/Basics/media/image14.png
+ create mode 100644 doc/md/Basics/media/image140.png
+ create mode 100644 doc/md/Basics/media/image141.png
+ create mode 100644 doc/md/Basics/media/image142.png
+ create mode 100644 doc/md/Basics/media/image143.png
+ create mode 100644 doc/md/Basics/media/image144.png
+ create mode 100644 doc/md/Basics/media/image145.png
+ create mode 100644 doc/md/Basics/media/image146.png
+ create mode 100644 doc/md/Basics/media/image147.png
+ create mode 100644 doc/md/Basics/media/image148.png
+ create mode 100644 doc/md/Basics/media/image149.png
+ create mode 100644 doc/md/Basics/media/image15.png
+ create mode 100644 doc/md/Basics/media/image150.png
+ create mode 100644 doc/md/Basics/media/image151.png
+ create mode 100644 doc/md/Basics/media/image152.png
+ create mode 100644 doc/md/Basics/media/image153.png
+ create mode 100644 doc/md/Basics/media/image154.png
+ create mode 100644 doc/md/Basics/media/image155.png
+ create mode 100644 doc/md/Basics/media/image156.png
+ create mode 100644 doc/md/Basics/media/image157.png
+ create mode 100644 doc/md/Basics/media/image158.png
+ create mode 100644 doc/md/Basics/media/image159.png
+ create mode 100644 doc/md/Basics/media/image16.png
+ create mode 100644 doc/md/Basics/media/image160.png
+ create mode 100644 doc/md/Basics/media/image161.png
+ create mode 100644 doc/md/Basics/media/image162.png
+ create mode 100644 doc/md/Basics/media/image163.png
+ create mode 100644 doc/md/Basics/media/image164.png
+ create mode 100644 doc/md/Basics/media/image165.png
+ create mode 100644 doc/md/Basics/media/image166.png
+ create mode 100644 doc/md/Basics/media/image167.png
+ create mode 100644 doc/md/Basics/media/image168.png
+ create mode 100644 doc/md/Basics/media/image169.png
+ create mode 100644 doc/md/Basics/media/image17.png
+ create mode 100644 doc/md/Basics/media/image170.png
+ create mode 100644 doc/md/Basics/media/image171.png
+ create mode 100644 doc/md/Basics/media/image172.png
+ create mode 100644 doc/md/Basics/media/image173.png
+ create mode 100644 doc/md/Basics/media/image174.png
+ create mode 100644 doc/md/Basics/media/image175.png
+ create mode 100644 doc/md/Basics/media/image176.png
+ create mode 100644 doc/md/Basics/media/image177.png
+ create mode 100644 doc/md/Basics/media/image178.png
+ create mode 100644 doc/md/Basics/media/image179.png
+ create mode 100644 doc/md/Basics/media/image18.png
+ create mode 100644 doc/md/Basics/media/image180.png
+ create mode 100644 doc/md/Basics/media/image181.png
+ create mode 100644 doc/md/Basics/media/image182.png
+ create mode 100644 doc/md/Basics/media/image183.png
+ create mode 100644 doc/md/Basics/media/image184.png
+ create mode 100644 doc/md/Basics/media/image185.png
+ create mode 100644 doc/md/Basics/media/image186.png
+ create mode 100644 doc/md/Basics/media/image187.png
+ create mode 100644 doc/md/Basics/media/image188.png
+ create mode 100644 doc/md/Basics/media/image189.png
+ create mode 100644 doc/md/Basics/media/image19.png
+ create mode 100644 doc/md/Basics/media/image190.png
+ create mode 100644 doc/md/Basics/media/image191.png
+ create mode 100644 doc/md/Basics/media/image192.png
+ create mode 100644 doc/md/Basics/media/image193.png
+ create mode 100644 doc/md/Basics/media/image194.png
+ create mode 100644 doc/md/Basics/media/image195.png
+ create mode 100644 doc/md/Basics/media/image196.png
+ create mode 100644 doc/md/Basics/media/image197.png
+ create mode 100644 doc/md/Basics/media/image198.png
+ create mode 100644 doc/md/Basics/media/image2.png
+ create mode 100644 doc/md/Basics/media/image20.png
+ create mode 100644 doc/md/Basics/media/image21.png
+ create mode 100644 doc/md/Basics/media/image22.png
+ create mode 100644 doc/md/Basics/media/image23.png
+ create mode 100644 doc/md/Basics/media/image24.png
+ create mode 100644 doc/md/Basics/media/image25.png
+ create mode 100644 doc/md/Basics/media/image26.png
+ create mode 100644 doc/md/Basics/media/image27.png
+ create mode 100644 doc/md/Basics/media/image28.png
+ create mode 100644 doc/md/Basics/media/image29.png
+ create mode 100644 doc/md/Basics/media/image3.png
+ create mode 100644 doc/md/Basics/media/image30.png
+ create mode 100644 doc/md/Basics/media/image31.png
+ create mode 100644 doc/md/Basics/media/image32.png
+ create mode 100644 doc/md/Basics/media/image33.png
+ create mode 100644 doc/md/Basics/media/image34.png
+ create mode 100644 doc/md/Basics/media/image35.png
+ create mode 100644 doc/md/Basics/media/image36.png
+ create mode 100644 doc/md/Basics/media/image37.png
+ create mode 100644 doc/md/Basics/media/image38.png
+ create mode 100644 doc/md/Basics/media/image39.png
+ create mode 100644 doc/md/Basics/media/image4.png
+ create mode 100644 doc/md/Basics/media/image40.png
+ create mode 100644 doc/md/Basics/media/image41.png
+ create mode 100644 doc/md/Basics/media/image42.png
+ create mode 100644 doc/md/Basics/media/image43.png
+ create mode 100644 doc/md/Basics/media/image44.png
+ create mode 100644 doc/md/Basics/media/image45.png
+ create mode 100644 doc/md/Basics/media/image46.png
+ create mode 100644 doc/md/Basics/media/image47.png
+ create mode 100644 doc/md/Basics/media/image48.png
+ create mode 100644 doc/md/Basics/media/image49.png
+ create mode 100644 doc/md/Basics/media/image5.png
+ create mode 100644 doc/md/Basics/media/image50.png
+ create mode 100644 doc/md/Basics/media/image51.png
+ create mode 100644 doc/md/Basics/media/image52.png
+ create mode 100644 doc/md/Basics/media/image54.png
+ create mode 100644 doc/md/Basics/media/image55.png
+ create mode 100644 doc/md/Basics/media/image56.png
+ create mode 100644 doc/md/Basics/media/image58.png
+ create mode 100644 doc/md/Basics/media/image6.png
+ create mode 100644 doc/md/Basics/media/image60.png
+ create mode 100644 doc/md/Basics/media/image61.png
+ create mode 100644 doc/md/Basics/media/image63.png
+ create mode 100644 doc/md/Basics/media/image64.png
+ create mode 100644 doc/md/Basics/media/image65.png
+ create mode 100644 doc/md/Basics/media/image67.png
+ create mode 100644 doc/md/Basics/media/image68.png
+ create mode 100644 doc/md/Basics/media/image69.png
+ create mode 100644 doc/md/Basics/media/image7.png
+ create mode 100644 doc/md/Basics/media/image70.png
+ create mode 100644 doc/md/Basics/media/image71.png
+ create mode 100644 doc/md/Basics/media/image72.png
+ create mode 100644 doc/md/Basics/media/image73.png
+ create mode 100644 doc/md/Basics/media/image74.png
+ create mode 100644 doc/md/Basics/media/image75.png
+ create mode 100644 doc/md/Basics/media/image76.png
+ create mode 100644 doc/md/Basics/media/image77.png
+ create mode 100644 doc/md/Basics/media/image79.png
+ create mode 100644 doc/md/Basics/media/image8.png
+ create mode 100644 doc/md/Basics/media/image80.png
+ create mode 100644 doc/md/Basics/media/image82.png
+ create mode 100644 doc/md/Basics/media/image83.png
+ create mode 100644 doc/md/Basics/media/image84.png
+ create mode 100644 doc/md/Basics/media/image85.png
+ create mode 100644 doc/md/Basics/media/image86.png
+ create mode 100644 doc/md/Basics/media/image87.png
+ create mode 100644 doc/md/Basics/media/image88.png
+ create mode 100644 doc/md/Basics/media/image89.png
+ create mode 100644 doc/md/Basics/media/image9.png
+ create mode 100644 doc/md/Basics/media/image90.png
+ create mode 100644 doc/md/Basics/media/image91.png
+ create mode 100644 doc/md/Basics/media/image92.png
+ create mode 100644 doc/md/Basics/media/image93.png
+ create mode 100644 doc/md/Basics/media/image94.png
+ create mode 100644 doc/md/Basics/media/image95.png
+ create mode 100644 doc/md/Basics/media/image96.png
+ create mode 100644 doc/md/Basics/media/image97.png
+ create mode 100644 doc/md/Basics/media/image98.png
+ create mode 100644 doc/md/Basics/media/image99.png
+ create mode 100644 doc/md/JavaScript运行机制/images/1.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/11.png
+ create mode 100644 doc/md/JavaScript运行机制/images/111.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/2.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/3.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/4.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/4.png
+ create mode 100644 doc/md/JavaScript运行机制/images/5.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/6.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/Snipaste_2018-04-01_10-47-28.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/event_loop (2).jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/event_loop.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/event_loop0.png
+ create mode 100644 doc/md/JavaScript运行机制/images/event_loop2.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/event_loop3.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/full_event_loop.png
+ create mode 100644 doc/md/JavaScript运行机制/images/full_event_loop2 - 副本.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/full_event_loop2.jpg
+ create mode 100644 doc/md/JavaScript运行机制/images/入栈出栈.png
+ create mode 100644 doc/md/JavaScript运行机制/images/消息队列.png
+ create mode 100644 doc/md/JavaScript运行机制/js运行机制.md
+ create mode 100644 doc/手册/.gitkeep
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(2018-7-29).zip
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/index.htm.lnk
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/2013102002.png
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/2013102003.png
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/2013102004.png
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/Untitled.md
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/ajax.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/analytics.js
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/array-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/array.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/arraybuffer.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/attribute.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/attributes.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/backbonejs.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/basic-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/basic.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/bg2016040801.jpg
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/bower.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/browserify.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/chm_about.htm
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/console.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/conversion.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/cookie.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/cors.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/css.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/date.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/document.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/ecmascript6.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/element.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/engine.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/error.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/event-type.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/event.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/foundation.css
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/fsm.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/function.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/general_enclosed_foundicons.eot
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/general_enclosed_foundicons.eot-
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/general_enclosed_foundicons.svg
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/general_enclosed_foundicons.ttf
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/general_enclosed_foundicons.woff
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/grunt.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/gulp.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/history-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/history.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/image.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/index.htm
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/indexeddb.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/interpreter.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/intro.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/jquery.js
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/json.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/license.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/lint.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/main.css
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/main.js
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/math.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/mobile.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/mutationobserver.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/node.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/notification.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/number-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/number.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/object-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/object-2.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/object.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/operator.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/pattern.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/performance.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/phantomjs.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/promise.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/prototype.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/regexp.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/requirejs.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/same-origin.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/single-thread.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/sourcemap.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/strict.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/string-1.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/string.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/style.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/testing.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/text.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/this.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/timer.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/toc.js
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/types.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/webrtc.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/websocket.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/webstorage.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/window.html
+ create mode 100644 doc/资料/JavaScript 教程_阮一峰(旧)/javascript/wrapper.html
+ create mode 100644 doc/资料/JavaScript中文手册.CHM
+ create mode 100644 doc/资料/JavaScript手册.chm
+ create mode 100644 doc/资料/JavaScript核心参考手册.chm
+ create mode 100644 doc/资料/JavaScript运行机制/js运行机制.docx
+ create mode 100644 doc/资料/JavaScript运行机制/js运行机制.pdf
+ create mode 100644 doc/资料/JavaScript高级程序设计（第3版）.pdf
+ create mode 100644 doc/资料/Javascipt语言手册(jscript).chm
+ create mode 100644 doc/资料/javascript教程.chm
+ create mode 100644 doc/资料/javascript经典实例100.chm
+ create mode 100644 doc/资料/键盘KeyCode对照表.docx
+------------------------END: Commit_1  ------------------------ 
+------------------------ ���ƹ���  ------------------------
+------------------------ ���ƹ���  ------------------------
+------------------------ YAML���  ------------------------
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\index.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]DOM������¼�.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]ð���¼�.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]����֪ʶ.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]����.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]�հ�.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]��ֹĬ����Ϊ.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]��������̺�ϵͳ����.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Advanced\[JavaScript]�߼�.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\Basics\JavaScript_Basics.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\js\JavaScript\doc\md\JavaScript���л���\js���л���.md.YAML ]
+
+���ӵ��ݴ�...
+git�ύ...
+[master f4e1c69] Commit_3 : + md's YAML
+ 11 files changed, 132 insertions(+)
+ create mode 100644 doc/md/Advanced/[JavaScript]DOM对象和事件.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]冒泡事件.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]基础知识.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]案例.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]闭包.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]阻止默认行为.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]面向对象编程和系统对象.md.YAML
+ create mode 100644 doc/md/Advanced/[JavaScript]高级.md.YAML
+ create mode 100644 doc/md/Advanced/index.md.YAML
+ create mode 100644 doc/md/Basics/JavaScript_Basics.md.YAML
+ create mode 100644 doc/md/JavaScript运行机制/js运行机制.md.YAML
+------------------------ YAML���  ------------------------
+------------------------ �������  ------------------------
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ js.JavaScript.20181219211044.add ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ js.JavaScript.20181219211044.init ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ js.JavaScript.20181219211044.update ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ js.JavaScript.20181219211044.del ]
+
+
+------------------------ �������  ------------------------
+########################## �鿴��� ##########################
+
+* master f4e1c69 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit f4e1c69322a9e50a11815e911aff87512b9c0b20
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:28 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 10e95efc051de00ee1ecb5fd04b0feb19c926ef9
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:11 2018 +0800
+
+    Commit_1 : + All file
+
+commit 9d1ce27b43ba4ae0f285799e2b3117e6a6fef3e8
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:45 2018 +0800
+
+    Commit_0 : init
+
+########################## �鿴��� ##########################

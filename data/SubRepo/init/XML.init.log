@@ -1,0 +1,135 @@
+执行操作... 
+日期时间：2018-12-19 21:15:01
+时间戳：20181219211501
+目录名: XML 
+------------------------ 仓库配置  ------------------------ 
+初始化仓库...
+Initialized empty Git repository in K:/DevDocCenter/XML/.git/
+配置用户名...
+配置邮箱... 
+配置提交缓存...
+添加远程仓库...
+------------------------ 仓库配置  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+输出 .gitignore...
+添加到暂存...
+git提交...
+[master (root-commit) c257c85] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+输出 .gitignore...
+复制 .gitattributes... 
+K:\DevDocCenter\XML\Script\sh\.gitattributes
+复制了 1 个文件
+添加到暂存...
+git提交...
+[master 0f8e9cc] Commit_1 : + All file
+ 44 files changed, 5072 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/[XML]鍩虹鐭ヨ瘑.md
+ create mode 100644 doc/md/[XML]妗堜緥.md
+ create mode 100644 doc/md/assets/1532025359169.png
+ create mode 100644 doc/md/assets/1532351790124.png
+ create mode 100644 doc/md/assets/1532352371653.png
+ create mode 100644 doc/md/assets/1532353542023.png
+ create mode 100644 doc/md/assets/1532353577345.png
+ create mode 100644 doc/md/assets/clip_image002.jpg
+ create mode 100644 doc/md/assets/ct_nodetree1.gif
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/鎵嬪唽/.gitkeep
+ create mode 100644 doc/璧勬枡/XML鎸囧崡.chm
+ create mode 100644 doc/璧勬枡/xml涓庢暟鎹簱.chm
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ 复制钩子  ------------------------
+------------------------ 复制钩子  ------------------------
+------------------------ YAML输出  ------------------------
+已复制         1 个文件。
+输出文件 [ K:\DevDocCenter\XML\doc\md\index.md.YAML ]
+
+已复制         1 个文件。
+输出文件 [ K:\DevDocCenter\XML\doc\md\[XML]基础知识.md.YAML ]
+
+已复制         1 个文件。
+输出文件 [ K:\DevDocCenter\XML\doc\md\[XML]案例.md.YAML ]
+
+添加到暂存...
+git提交...
+[master e9a5ead] Commit_3 : + md's YAML
+ 3 files changed, 36 insertions(+)
+ create mode 100644 doc/md/[XML]鍩虹鐭ヨ瘑.md.YAML
+ create mode 100644 doc/md/[XML]妗堜緥.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAML输出  ------------------------
+------------------------ 配置输出  ------------------------
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ XML.20181219211501.add ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ XML.20181219211501.init ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ XML.20181219211501.update ]
+
+ 
+用于子模块的配置文件已生成，请尽快转移文件
+[ XML.20181219211501.del ]
+
+
+------------------------ 配置输出  ------------------------
+########################## 查看结果 ##########################
+
+* master e9a5ead Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit e9a5eadd3582c4d00aa061d3555511ad3c897346
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:22 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 0f8e9cc446f8de34a0c542fa1c3730dc2ab7a502
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:06 2018 +0800
+
+    Commit_1 : + All file
+
+commit c257c853eed93c5da68e1cafe6dc39501e0cda45
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:15:30 2018 +0800
+
+    Commit_0 : init
+
+########################## 查看结果 ##########################

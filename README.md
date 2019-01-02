@@ -29,6 +29,8 @@
     └─sh
             outRepoList.bat
             Search_.bak_CreateRepoDir.bat
+            copymdpic.bat
+            CallX.bat
 ```
 
 
@@ -46,9 +48,21 @@
 
 * `Script`  ： 脚本根目录。
   * `hook` ： 钩子目录。
+
   * `sh`  ： 脚本目录(.bat：Windows专用)。
     * `outRepoList.bat` ： 生成`RepoList.md` 文件的脚本。
+
     * `Search_.bak_CreateRepoDir.bat`  ： 在另一位置创建子仓库的空目录。
       * 用于检出子仓库的其它分支。
 
-    
+    * `copymdpic.bat` : 处理当前目录下的md文件中的图片
+    * `CallX.bat` ：跨脚本调度器。
+
+
+​      
+
+​    
+
+​    
+
+​    

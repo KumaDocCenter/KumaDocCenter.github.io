@@ -1,0 +1,211 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:13:21
+Ê±¼ä´Á£º20181219211321
+Ä¿Â¼Ãû: NoSQL.Memcache 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/NoSQL/Memcache/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 6083740] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\NoSQL\Memcache\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 4c6b9f0] Commit_1 : + All file
+ 124 files changed, 5319 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/NoSQL_Memcache.md
+ create mode 100644 doc/md/assets/1536655654383.png
+ create mode 100644 doc/md/assets/1536655672202.png
+ create mode 100644 doc/md/assets/1536658468283.png
+ create mode 100644 doc/md/assets/wps2B43.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B54.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B64.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B65.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B66.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B77.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B78.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B89.tmp.png
+ create mode 100644 doc/md/assets/wps2B8A.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B9A.tmp.jpg
+ create mode 100644 doc/md/assets/wps2B9B.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BAC.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BAD.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BBD.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BBE.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BBF.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BD0.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BD1.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BE2.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BE3.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BF3.tmp.jpg
+ create mode 100644 doc/md/assets/wps2BF4.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C05.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C06.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C17.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C18.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C28.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C29.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C3A.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C3B.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C4B.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C4C.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C5D.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C5E.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C6F.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C70.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C71.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C81.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C82.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C93.tmp.jpg
+ create mode 100644 doc/md/assets/wps2C94.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CA5.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CA6.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CB6.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CC7.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CC8.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CD8.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CD9.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CEA.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CEB.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CFC.tmp.jpg
+ create mode 100644 doc/md/assets/wps2CFD.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D0D.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D0E.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D0F.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D20.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D21.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D32.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D33.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D43.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D44.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D55.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D56.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D66.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D67.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D68.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D79.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D7A.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D8B.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D8C.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D9C.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D9D.tmp.jpg
+ create mode 100644 doc/md/assets/wps2D9E.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DAF.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DB0.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DC1.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DC2.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DD2.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DE3.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DE4.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DF4.tmp.jpg
+ create mode 100644 doc/md/assets/wps2DF5.tmp.jpg
+ create mode 100644 doc/md/assets/wps2E06.tmp.jpg
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/Memcacheå¯è§†åŒ–å·¥å…· .md
+ create mode 100644 doc/èµ„æ–™/install.txt
+ create mode 100644 doc/èµ„æ–™/åˆ©ç”¨Memcachedçš„åå°„å‹DDOSæ”»å‡»æŠ€æœ¯åˆ†æ.url
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\NoSQL\Memcache\doc\md\index.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\NoSQL\Memcache\doc\md\NoSQL_Memcache.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master b153734] Commit_3 : + md's YAML
+ 2 files changed, 24 insertions(+)
+ create mode 100644 doc/md/NoSQL_Memcache.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Memcache.20181219211321.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Memcache.20181219211321.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Memcache.20181219211321.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Memcache.20181219211321.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master b153734 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit b15373497a9c692a2a61c149f1ec6ef1242d9334
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:17 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 4c6b9f037885143143585fbdb5e43c5f7f8f2c41
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:14:49 2018 +0800
+
+    Commit_1 : + All file
+
+commit 6083740756728c7d8c49076b3e9340d37d8337c7
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:33 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

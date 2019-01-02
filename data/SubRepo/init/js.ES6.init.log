@@ -1,0 +1,136 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:09:59
+Ê±¼ä´Á£º20181219210959
+Ä¿Â¼Ãû: js.ES6 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/js/ES6/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) d9f0e27] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\js\ES6\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master c5fd9eb] Commit_1 : + All file
+ 53 files changed, 4255 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/es6_img/image1.png
+ create mode 100644 doc/md/es6_img/image10.png
+ create mode 100644 doc/md/es6_img/image11.png
+ create mode 100644 doc/md/es6_img/image12.png
+ create mode 100644 doc/md/es6_img/image13.png
+ create mode 100644 doc/md/es6_img/image14.png
+ create mode 100644 doc/md/es6_img/image15.png
+ create mode 100644 doc/md/es6_img/image16.png
+ create mode 100644 doc/md/es6_img/image17.png
+ create mode 100644 doc/md/es6_img/image18.png
+ create mode 100644 doc/md/es6_img/image19.png
+ create mode 100644 doc/md/es6_img/image2.png
+ create mode 100644 doc/md/es6_img/image20.png
+ create mode 100644 doc/md/es6_img/image3.png
+ create mode 100644 doc/md/es6_img/image4.png
+ create mode 100644 doc/md/es6_img/image5.png
+ create mode 100644 doc/md/es6_img/image6.png
+ create mode 100644 doc/md/es6_img/image7.png
+ create mode 100644 doc/md/es6_img/image8.png
+ create mode 100644 doc/md/es6_img/image9.png
+ create mode 100644 doc/md/es6ç®€ä»‹.md
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/.gitkeep
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\ES6\doc\md\es6¼ò½é.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master b7d9e9e] Commit_3 : + md's YAML
+ 1 file changed, 12 insertions(+)
+ create mode 100644 doc/md/es6ç®€ä»‹.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.ES6.20181219210959.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.ES6.20181219210959.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.ES6.20181219210959.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.ES6.20181219210959.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master b7d9e9e Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit b7d9e9ec5d77f7a2d1107056758eef81c16aeabc
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:22 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit c5fd9eb381039763004088dd46228c63b18599a5
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:16 2018 +0800
+
+    Commit_1 : + All file
+
+commit d9f0e27dc5c33195190422a5761dec4a3fcaf45d
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:07 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

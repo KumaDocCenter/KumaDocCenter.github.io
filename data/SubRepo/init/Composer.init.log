@@ -1,0 +1,162 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:09:05
+Ê±¼ä´Á£º20181219210905
+Ä¿Â¼Ãû: Composer 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/Composer/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 5a49f77] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\Composer\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master d9390e8] Commit_1 : + All file
+ 79 files changed, 4691 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Composer - GitHub.url
+ create mode 100644 doc/Readme/Composer - ç»´åŸºç™¾ç§‘.url
+ create mode 100644 doc/Readme/Composer.url
+ create mode 100644 doc/Readme/Readme.txt
+ create mode 100644 doc/md/Composerç¬”è®°.md
+ create mode 100644 doc/md/assets/1537660761864.png
+ create mode 100644 doc/md/assets/1537660787366.png
+ create mode 100644 doc/md/assets/1537660827975.png
+ create mode 100644 doc/md/assets/1537660855716.png
+ create mode 100644 doc/md/assets/1537660871530.png
+ create mode 100644 doc/md/assets/1537660908979.png
+ create mode 100644 doc/md/assets/1537660973121.png
+ create mode 100644 doc/md/assets/1537661008485.png
+ create mode 100644 doc/md/assets/1537667106801.png
+ create mode 100644 doc/md/assets/image10.png
+ create mode 100644 doc/md/assets/image2.png
+ create mode 100644 doc/md/assets/image3.png
+ create mode 100644 doc/md/assets/image4.png
+ create mode 100644 doc/md/assets/image5.png
+ create mode 100644 doc/md/assets/image6.png
+ create mode 100644 doc/md/assets/image7.png
+ create mode 100644 doc/md/assets/image8.png
+ create mode 100644 doc/md/assets/image9.png
+ create mode 100644 doc/md/assets/wpsC3D.tmp.jpg
+ create mode 100644 doc/md/assets/wpsC4E.tmp.jpg
+ create mode 100644 doc/md/assets/wpsC5E.tmp.jpg
+ create mode 100644 doc/md/assets/wpsCA3.tmp.jpg
+ create mode 100644 doc/md/assets/wpsCB3.tmp.jpg
+ create mode 100644 doc/md/assets/wpsCC4.tmp.jpg
+ create mode 100644 doc/md/assets/wpsCE7.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD1A.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD1B.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD2C.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD3C.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD4D.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD5E.tmp.jpg
+ create mode 100644 doc/md/assets/wpsD91.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDA1.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDA2.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDB3.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDC3.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDD4.tmp.jpg
+ create mode 100644 doc/md/assets/wpsDF5.tmp.jpg
+ create mode 100644 doc/æ‰‹å†Œ/composer-doc-cn-1.6.zip
+ create mode 100644 doc/èµ„æ–™/Packagist_Composer ä¸­å›½å…¨é‡é•œåƒ.pdf
+ create mode 100644 doc/èµ„æ–™/ä¸è”ç½‘å®‰è£…composer/Composer-Setup.exe
+ create mode 100644 doc/èµ„æ–™/ä¸è”ç½‘å®‰è£…composer/composer-ç¦»çº¿åŒ….zip
+ create mode 100644 doc/èµ„æ–™/ä¸è”ç½‘å®‰è£…composer/å¸¸è§é”™è¯¯.txt
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Composer\doc\md\Composer±Ê¼Ç.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 9f4902a] Commit_3 : + md's YAML
+ 1 file changed, 12 insertions(+)
+ create mode 100644 doc/md/Composerç¬”è®°.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Composer.20181219210905.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Composer.20181219210905.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Composer.20181219210905.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Composer.20181219210905.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 9f4902a Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 9f4902a554f25b0f35b02b1b4a952eb6ba373956
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:31 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit d9390e812c2ef1bb7a83be5c7612fb9913fdee6d
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:13 2018 +0800
+
+    Commit_1 : + All file
+
+commit 5a49f777b73f88f90c23a97f16a8efd37c78a1f4
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:08 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

@@ -1,0 +1,230 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:10:43
+Ê±¼ä´Á£º20181219211043
+Ä¿Â¼Ãû: js.Jquery 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/js/Jquery/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 6739488] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\js\Jquery\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master c229c15] Commit_1 : + All file
+ 139 files changed, 6795 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.txt
+ create mode 100644 doc/Readme/jQuery - GitHub.url
+ create mode 100644 doc/Readme/jQuery - ç»´åŸºç™¾ç§‘.url
+ create mode 100644 doc/Readme/jQuery.url
+ create mode 100644 doc/md/assets/1533431242933.png
+ create mode 100644 doc/md/assets/1533435624587.png
+ create mode 100644 doc/md/assets/1533437319898.png
+ create mode 100644 doc/md/assets/1533437637525.png
+ create mode 100644 doc/md/assets/1533453258374.png
+ create mode 100644 doc/md/assets/1533455969563.png
+ create mode 100644 doc/md/assets/1533459228473.png
+ create mode 100644 doc/md/assets/1533517365121.png
+ create mode 100644 doc/md/assets/1533523399952.png
+ create mode 100644 doc/md/assets/1533541699281.png
+ create mode 100644 doc/md/assets/1533542166227.png
+ create mode 100644 doc/md/assets/1533543213882.png
+ create mode 100644 doc/md/assets/1533543701617.png
+ create mode 100644 doc/md/assets/1533543755896.png
+ create mode 100644 doc/md/assets/1533543804858.png
+ create mode 100644 doc/md/assets/1533545552492.png
+ create mode 100644 doc/md/assets/1533545611227.png
+ create mode 100644 doc/md/assets/1533546444712.png
+ create mode 100644 doc/md/assets/1533548596813.png
+ create mode 100644 doc/md/assets/1533548624468.png
+ create mode 100644 doc/md/assets/1533690139208.png
+ create mode 100644 doc/md/assets/1533694125275.png
+ create mode 100644 doc/md/assets/1533694225575.png
+ create mode 100644 doc/md/assets/1533698726580.png
+ create mode 100644 doc/md/assets/1533698800934.png
+ create mode 100644 doc/md/assets/1533711236968.png
+ create mode 100644 doc/md/assets/1533716080829.png
+ create mode 100644 doc/md/assets/1533716867581.png
+ create mode 100644 doc/md/assets/1533716907674.png
+ create mode 100644 doc/md/assets/clip_image002-1533468821826.jpg
+ create mode 100644 doc/md/assets/clip_image002.jpg
+ create mode 100644 doc/md/assets/clip_image004-1533468821826.jpg
+ create mode 100644 doc/md/assets/clip_image004.jpg
+ create mode 100644 doc/md/assets/clip_image006-1533468821826.jpg
+ create mode 100644 doc/md/assets/clip_image006.jpg
+ create mode 100644 doc/md/assets/clip_image008-1533468821826.jpg
+ create mode 100644 doc/md/assets/clip_image008.jpg
+ create mode 100644 doc/md/assets/clip_image010-1533468821826.jpg
+ create mode 100644 doc/md/assets/clip_image010.jpg
+ create mode 100644 doc/md/assets/clip_image012-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image012.jpg
+ create mode 100644 doc/md/assets/clip_image014-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image014.jpg
+ create mode 100644 doc/md/assets/clip_image016-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image016.jpg
+ create mode 100644 doc/md/assets/clip_image018-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image018.jpg
+ create mode 100644 doc/md/assets/clip_image020-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image020.jpg
+ create mode 100644 doc/md/assets/clip_image022-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image022.jpg
+ create mode 100644 doc/md/assets/clip_image024-1533468821827.jpg
+ create mode 100644 doc/md/assets/clip_image024.jpg
+ create mode 100644 doc/md/assets/clip_image026.jpg
+ create mode 100644 doc/md/assets/clip_image028.jpg
+ create mode 100644 doc/md/assets/clip_image030.jpg
+ create mode 100644 doc/md/assets/clip_image032.jpg
+ create mode 100644 doc/md/assets/clip_image034.jpg
+ create mode 100644 doc/md/assets/clip_image036.jpg
+ create mode 100644 doc/md/assets/clip_image038.jpg
+ create mode 100644 doc/md/assets/clip_image040.jpg
+ create mode 100644 doc/md/assets/clip_image042.jpg
+ create mode 100644 doc/md/assets/clip_image044.jpg
+ create mode 100644 doc/md/assets/clip_image046.jpg
+ create mode 100644 doc/md/assets/clip_image048.jpg
+ create mode 100644 doc/md/assets/clip_image050.jpg
+ create mode 100644 doc/md/assets/clip_image052.jpg
+ create mode 100644 doc/md/assets/clip_image054.jpg
+ create mode 100644 doc/md/assets/clip_image056.jpg
+ create mode 100644 doc/md/assets/clip_image058.jpg
+ create mode 100644 doc/md/assets/clip_image060.jpg
+ create mode 100644 doc/md/assets/clip_image062.jpg
+ create mode 100644 doc/md/assets/clip_image064.jpg
+ create mode 100644 doc/md/assets/clip_image066.jpg
+ create mode 100644 doc/md/assets/clip_image068.jpg
+ create mode 100644 doc/md/assets/clip_image070.jpg
+ create mode 100644 doc/md/assets/clip_image072.jpg
+ create mode 100644 doc/md/assets/clip_image074.jpg
+ create mode 100644 doc/md/assets/clip_image076.jpg
+ create mode 100644 doc/md/assets/clip_image078.jpg
+ create mode 100644 doc/md/assets/clip_image080.jpg
+ create mode 100644 doc/md/assets/clip_image082.jpg
+ create mode 100644 doc/md/assets/clip_image084.jpg
+ create mode 100644 doc/md/assets/clip_image086.jpg
+ create mode 100644 doc/md/assets/clip_image088.jpg
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/md/jQueryåŸºç¡€çŸ¥è¯†.md
+ create mode 100644 doc/md/jQueryæ¡ˆä¾‹.md
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/JQuery_1.4_API.CHM
+ create mode 100644 doc/èµ„æ–™/JQueryä¸­æ–‡æ‰‹å†Œ1.2.6.chm
+ create mode 100644 doc/èµ„æ–™/jQuery1.11.3_20150618.chm
+ create mode 100644 doc/èµ„æ–™/jQuery1.8.3_20121215.chm
+ create mode 100644 doc/èµ„æ–™/jQueryAPI-1.41.chm
+ create mode 100644 doc/èµ„æ–™/jQuery_API_1.4.4.chm
+ create mode 100644 doc/èµ„æ–™/jquery.api.3.2.1.CHM
+ create mode 100644 doc/èµ„æ–™/å›¾ç‰‡åˆ‡æ¢ç‰¹æ•ˆ.rar
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-1.11.3.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-1.7.2.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-1.8.3.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-2.1.4.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-3.1.1.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-3.2.1.zip
+ create mode 100644 doc/èµ„æ–™/ç¬¬ä¸‰æ–¹ä¸‹è½½/jquery-3.3.1.zip
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\Jquery\doc\md\index.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\Jquery\doc\md\jQuery»ù´¡ÖªÊ¶.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\Jquery\doc\md\jQuery°¸Àı.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 9f0b96d] Commit_3 : + md's YAML
+ 3 files changed, 36 insertions(+)
+ create mode 100644 doc/md/index.md.YAML
+ create mode 100644 doc/md/jQueryåŸºç¡€çŸ¥è¯†.md.YAML
+ create mode 100644 doc/md/jQueryæ¡ˆä¾‹.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.Jquery.20181219211043.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.Jquery.20181219211043.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.Jquery.20181219211043.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.Jquery.20181219211043.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 9f0b96d Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 9f0b96d2abebd061cd3560e7316a74f95c08b5f5
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:12:08 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit c229c158c15897e2214d902ac678a9bec03c9ae1
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:53 2018 +0800
+
+    Commit_1 : + All file
+
+commit 67394880820bf69149b865ae7cde2af4657d10df
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:44 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

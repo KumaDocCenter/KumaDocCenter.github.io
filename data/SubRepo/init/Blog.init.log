@@ -1,0 +1,136 @@
+ִ�в���... 
+����ʱ�䣺2018-12-19 21:08:42
+ʱ�����20181219210842
+Ŀ¼��: Blog 
+------------------------ �ֿ�����  ------------------------ 
+��ʼ���ֿ�...
+Initialized empty Git repository in K:/DevDocCenter/Blog/.git/
+�����û���...
+��������... 
+�����ύ����...
+����Զ�ֿ̲�...
+------------------------ �ֿ�����  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+��� .gitignore...
+���ӵ��ݴ�...
+git�ύ...
+[master (root-commit) bb6509d] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+��� .gitignore...
+���� .gitattributes... 
+K:\DevDocCenter\Blog\Script\sh\.gitattributes
+������ 1 ���ļ�
+���ӵ��ݴ�...
+git�ύ...
+[master 673f32f] Commit_1 : + All file
+ 63 files changed, 5416 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/.gitkeep
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/9 款最好的免费博客网站对比.md
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1019046567,349551332&fm=173&s=61928C74B6F804210E06B20C030050FF&w=640&h=225&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1167836500,3488816277&fm=173&s=F1971F745CACE41BC8151947030070F0&w=640&h=243&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1308090760,2970794976&fm=173&s=1E8CA1449CD1980D439AB111030030D8&w=640&h=232&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1407343755,136869304&fm=173&s=E03B32748FC47D624C9611420300F0BB&w=640&h=180&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1546741834,3746441642&fm=173&s=F085B05489000D530C9614960300E09A&w=640&h=181&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1551249664,187887679&fm=173&s=9113CA7E8494A870123ED4130200E0DB&w=640&h=190&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=1811737664,64335035&fm=173&s=C8271F748F704C0116C3E4C9030070B9&w=640&h=216&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=2806842050,2554258440&fm=173&s=A902D21686B56831761654D30300F0BB&w=640&h=210&img.JPEG
+ create mode 100644 doc/资料/9 款最好的免费博客网站对比/assets/u=3289187278,1576036441&fm=173&s=F123B0540880B964187BE1030300F0CB&w=640&h=182&img.JPEG
+ create mode 100644 doc/资料/中国十大技术社区你都知道哪些？.pdf
+ create mode 100644 doc/资料/主流开源博客程序.md
+ create mode 100644 doc/资料/十个程序员必备的网站推荐/十个程序员必备的网站推荐.md
+ create mode 100644 doc/资料/各大门户网站博客对比/assets/0011.png
+ create mode 100644 doc/资料/各大门户网站博客对比/assets/002.png
+ create mode 100644 doc/资料/各大门户网站博客对比/assets/003.png
+ create mode 100644 doc/资料/各大门户网站博客对比/各大门户网站博客对比.md
+ create mode 100644 doc/资料/技术类网站(博客)平台.md
+ create mode 100644 doc/资料/推荐一些程序员必备的网站和博客/推荐一些程序员必备的网站和博客.md
+ create mode 100644 doc/资料/普通类网站(博客)平台.md
+ create mode 100644 doc/资料/程序员必备的网站推荐.pdf
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/2f6ccc3746650226a1d79c8dc8d79254.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/4448cca94d864315779eab7c0620b873.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/511a5ef86940822afddd07df02f19afd.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/6a03bef68082db3f578ad3fb52fadba9.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/70cd03ed15a7ca098f22e0d6e63307f0.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/a6e8c50c4829da8690a62403b9900edf.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/c468f24e5724c2fcb8350306f127f538.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/d0e4b659c52263a4cfcef93b33a54ae1.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/d12397b033d4c0af3abd7154a98a1db9.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/assets/d4400b4b0537a19d8dad2f3f3fdcfa9c.jpeg
+ create mode 100644 doc/资料/适合IT互联网常用的十大技术博客类网站/适合IT互联网常用的十大技术博客类网站.md
+------------------------END: Commit_1  ------------------------ 
+------------------------ ���ƹ���  ------------------------
+------------------------ ���ƹ���  ------------------------
+------------------------ YAML���  ------------------------
+���ӵ��ݴ�...
+git�ύ...
+On branch master
+nothing to commit, working tree clean
+------------------------ YAML���  ------------------------
+------------------------ �������  ------------------------
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Blog.20181219210842.add ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Blog.20181219210842.init ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Blog.20181219210842.update ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Blog.20181219210842.del ]
+
+
+------------------------ �������  ------------------------
+########################## �鿴��� ##########################
+
+* master 673f32f Commit_1 : + All file
+-----------------------------------------------------------
+commit 673f32f2583af1d040495a8a9c916b9c1d783d20
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:47 2018 +0800
+
+    Commit_1 : + All file
+
+commit bb6509d006e5cf739682378a70148014bf339146
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:45 2018 +0800
+
+    Commit_0 : init
+
+########################## �鿴��� ##########################

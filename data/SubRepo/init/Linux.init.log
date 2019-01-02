@@ -1,0 +1,227 @@
+ִ�в���... 
+����ʱ�䣺2018-12-19 21:12:29
+ʱ�����20181219211229
+Ŀ¼��: Linux 
+------------------------ �ֿ�����  ------------------------ 
+��ʼ���ֿ�...
+Initialized empty Git repository in K:/DevDocCenter/Linux/.git/
+�����û���...
+��������... 
+�����ύ����...
+����Զ�ֿ̲�...
+------------------------ �ֿ�����  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+��� .gitignore...
+���ӵ��ݴ�...
+git�ύ...
+[master (root-commit) d7f5618] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+��� .gitignore...
+���� .gitattributes... 
+K:\DevDocCenter\Linux\Script\sh\.gitattributes
+������ 1 ���ļ�
+���ӵ��ݴ�...
+git�ύ...
+[master b2e34ac] Commit_1 : + All file
+ 132 files changed, 7736 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/assets/1535705160418.png
+ create mode 100644 doc/md/assets/1535705188236.png
+ create mode 100644 doc/md/assets/1535705190337.png
+ create mode 100644 doc/md/assets/1535705279428.png
+ create mode 100644 doc/md/assets/1536044947959.png
+ create mode 100644 doc/md/assets/1536049721105.png
+ create mode 100644 doc/md/assets/1536049753827.png
+ create mode 100644 doc/md/assets/1536049797691.png
+ create mode 100644 doc/md/assets/1536049842498.png
+ create mode 100644 doc/md/assets/1536110627508.png
+ create mode 100644 doc/md/assets/1536114738118.png
+ create mode 100644 doc/md/assets/1536115323997.png
+ create mode 100644 doc/md/assets/1536135143174.png
+ create mode 100644 doc/md/assets/1536135147397.png
+ create mode 100644 doc/md/assets/1536136063816.png
+ create mode 100644 doc/md/assets/1536139009673.png
+ create mode 100644 doc/md/assets/1536155197372.png
+ create mode 100644 doc/md/assets/1536286434100.png
+ create mode 100644 doc/md/assets/1536289002270.png
+ create mode 100644 doc/md/assets/1536291931321.png
+ create mode 100644 doc/md/assets/1536306787321.png
+ create mode 100644 doc/md/assets/1536311258735.png
+ create mode 100644 doc/md/assets/1536311349805.png
+ create mode 100644 doc/md/assets/1536311357128.png
+ create mode 100644 doc/md/assets/1536313751040.png
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/md/linux操作系统1.md
+ create mode 100644 doc/md/linux操作系统2.md
+ create mode 100644 doc/md/linux操作系统3.md
+ create mode 100644 doc/手册/.gitkeep
+ create mode 100644 doc/资料/Linux命令大全(Linuxidc.com).chm
+ create mode 100644 doc/资料/Linux命令大全(ourlinux.net).chm
+ create mode 100644 doc/资料/Linux系统命令及其使用详解.doc
+ create mode 100644 doc/资料/[Linux指令范例速查手册].马玉军.扫描版[jb51.net].pdf
+ create mode 100644 doc/资料/centos6_redhat命令行参数补齐(增强版TAB补齐)和vim自动补齐 - CSDN博客.pdf
+ create mode 100644 doc/资料/linux学习网站.txt
+ create mode 100644 doc/资料/linux目录结构详细介绍.pdf
+ create mode 100644 doc/资料/rpm/doc/Readme/Readme.md
+ create mode 100644 doc/资料/rpm/doc/md/.gitkeep
+ create mode 100644 doc/资料/rpm/doc/资料/.gitkeep
+ create mode 100644 doc/资料/yum/doc/Readme/Readme.md
+ create mode 100644 doc/资料/yum/doc/md/.gitkeep
+ create mode 100644 doc/资料/yum/doc/资料/.gitkeep
+ create mode 100644 doc/资料/开源协议.png
+ create mode 100644 doc/资料/推荐阅读/Linux入门很简单.pdf
+ create mode 100644 doc/资料/推荐阅读/linux历史.doc
+ create mode 100644 doc/资料/推荐阅读/linux历史.pdf
+ create mode 100644 doc/资料/推荐阅读/linux发行线(几乎包含所有的linux发行版).pdf
+ create mode 100644 doc/资料/推荐阅读/tlcl-cn.pdf
+ create mode 100644 doc/资料/推荐阅读/操作系统图形界面发展史(1981-2009).pdf
+ create mode 100644 doc/资料/推荐阅读/服务器寿命周期内只会关机一次，为什么能够长时间持续工作而不宕机？.pdf
+ create mode 100644 doc/资料/推荐阅读/服务器运行时间案例.pdf
+ create mode 100644 doc/资料/推荐阅读/浪潮之巅.pdf
+ create mode 100644 doc/资料/相关图片/1984MAC电脑问世.png
+ create mode 100644 doc/资料/相关图片/Ubuntu.png
+ create mode 100644 doc/资料/相关图片/Unix主要发行版.png
+ create mode 100644 doc/资料/相关图片/clip_image012.jpg
+ create mode 100644 doc/资料/相关图片/dragon.png
+ create mode 100644 doc/资料/相关图片/free.png
+ create mode 100644 doc/资料/相关图片/freebsd.jpg
+ create mode 100644 doc/资料/相关图片/ghostbsd.png
+ create mode 100644 doc/资料/相关图片/linux-tux.jpg
+ create mode 100644 doc/资料/相关图片/linux-发行版.jpg
+ create mode 100644 doc/资料/相关图片/linuxprogrammerkeyboard.jpg
+ create mode 100644 doc/资料/相关图片/linux主要发行版.png
+ create mode 100644 doc/资料/相关图片/linux之父-李纳斯.jpeg
+ create mode 100644 doc/资料/相关图片/linux发展历史图.png
+ create mode 100644 doc/资料/相关图片/linux发行版.png
+ create mode 100644 doc/资料/相关图片/linux文件系统树-filesystem.jpg
+ create mode 100644 doc/资料/相关图片/linux文件系统树.png
+ create mode 100644 doc/资料/相关图片/logo.doc
+ create mode 100644 doc/资料/相关图片/logo.pdf
+ create mode 100644 doc/资料/相关图片/mac.jpg
+ create mode 100644 doc/资料/相关图片/minbsd.png
+ create mode 100644 doc/资料/相关图片/mirosbsd.png
+ create mode 100644 doc/资料/相关图片/netbsd.png
+ create mode 100644 doc/资料/相关图片/openbsd.png
+ create mode 100644 doc/资料/相关图片/pear.png
+ create mode 100644 doc/资料/相关图片/pebbsd.png
+ create mode 100644 doc/资料/相关图片/qbs.jpg
+ create mode 100644 doc/资料/相关图片/redhat1.jpg
+ create mode 100644 doc/资料/相关图片/shell.jpg
+ create mode 100644 doc/资料/相关图片/stallman.jpg
+ create mode 100644 doc/资料/相关图片/stallman1.jpg
+ create mode 100644 doc/资料/相关图片/stallman2.jpg
+ create mode 100644 doc/资料/相关图片/stallman3.jpg
+ create mode 100644 doc/资料/相关图片/stallman4.jpg
+ create mode 100644 doc/资料/相关图片/tux.jpg
+ create mode 100644 doc/资料/相关图片/乔布斯和他的商业导师.png
+ create mode 100644 doc/资料/相关图片/李纳斯和.png
+ create mode 100644 doc/资料/相关图片/百事前CEO.png
+ create mode 100644 doc/资料/相关图片/苹果另外一个创始人-沃兹.png
+ create mode 100644 doc/资料/相关图片/苹果首个CEO.png
+ create mode 100644 doc/资料/相关图片/语录1.png
+ create mode 100644 doc/资料/相关图片/达尼斯-李奇和肯汤姆森.png
+ create mode 100644 doc/资料/相关网站.txt
+ create mode 100644 doc/资料/虚拟电脑创建和centos操作系统的安装.doc
+ create mode 100644 doc/资料/鸟哥的Linux私房菜.chm
+ create mode 100644 doc/资料/鸟哥私房菜/鸟哥的Linux私房菜基础学习篇-第三版.pdf
+ create mode 100644 doc/资料/鸟哥私房菜/鸟哥的Linux私房菜基础学习篇-第四版v2.0.pdf
+ create mode 100644 doc/资料/鸟哥私房菜/鸟哥的Linux私房菜服务器架设篇-第三版.pdf
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ���ƹ���  ------------------------
+------------------------ ���ƹ���  ------------------------
+------------------------ YAML���  ------------------------
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Linux\doc\md\index.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Linux\doc\md\linux����ϵͳ1.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Linux\doc\md\linux����ϵͳ2.md.YAML ]
+
+�Ѹ���         1 ���ļ���
+����ļ� [ K:\DevDocCenter\Linux\doc\md\linux����ϵͳ3.md.YAML ]
+
+���ӵ��ݴ�...
+git�ύ...
+[master abc51b7] Commit_3 : + md's YAML
+ 4 files changed, 48 insertions(+)
+ create mode 100644 doc/md/index.md.YAML
+ create mode 100644 doc/md/linux操作系统1.md.YAML
+ create mode 100644 doc/md/linux操作系统2.md.YAML
+ create mode 100644 doc/md/linux操作系统3.md.YAML
+------------------------ YAML���  ------------------------
+------------------------ �������  ------------------------
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Linux.20181219211229.add ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Linux.20181219211229.init ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Linux.20181219211229.update ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ Linux.20181219211229.del ]
+
+
+------------------------ �������  ------------------------
+########################## �鿴��� ##########################
+
+* master abc51b7 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit abc51b75cfaa32668227d235b450eb38edf947d7
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:27 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit b2e34ace67f2c8ea8c2c5c833b57146a5f6b997e
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:15:25 2018 +0800
+
+    Commit_1 : + All file
+
+commit d7f56180e79ea192cdc0514d26615bc7a15c4a35
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:03 2018 +0800
+
+    Commit_0 : init
+
+########################## �鿴��� ##########################

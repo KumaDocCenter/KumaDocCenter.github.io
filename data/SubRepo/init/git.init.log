@@ -1,0 +1,238 @@
+ִ�в���... 
+����ʱ�䣺2018-12-19 21:09:53
+ʱ�����20181219210953
+Ŀ¼��: git 
+------------------------ �ֿ�����  ------------------------ 
+��ʼ���ֿ�...
+Initialized empty Git repository in K:/DevDocCenter/git/.git/
+�����û���...
+��������... 
+�����ύ����...
+����Զ�ֿ̲�...
+------------------------ �ֿ�����  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+��� .gitignore...
+���ӵ��ݴ�...
+git�ύ...
+[master (root-commit) 4244128] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+��� .gitignore...
+���� .gitattributes... 
+K:\DevDocCenter\git\Script\sh\.gitattributes
+������ 1 ���ļ�
+���ӵ��ݴ�...
+git�ύ...
+[master 3b2a215] Commit_1 : + All file
+ 165 files changed, 10421 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Git GUI.lnk
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/GIT（分布式版本控制系统）_百度百科.url
+ create mode 100644 doc/Readme/Git - 维基百科.url
+ create mode 100644 doc/Readme/Git.url
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/.gitkeep
+ create mode 100644 doc/手册/.gitkeep
+ create mode 100644 doc/资料/20141119211316805.png
+ create mode 100644 doc/资料/FAQ.md
+ create mode 100644 doc/资料/Git 简易教程.docx
+ create mode 100644 doc/资料/Git_GUI.md
+ create mode 100644 doc/资料/Git使用教程 ­ 空智 ­ 博客园.pdf
+ create mode 100644 doc/资料/Git分支管理策略 ­ 阮一峰.pdf
+ create mode 100644 doc/资料/Git权威指南.pdf
+ create mode 100644 doc/资料/Git详细教程.docx
+ create mode 100644 doc/资料/Pro Git/Source/progit2-2.1.88.tar.gz
+ create mode 100644 doc/资料/Pro Git/Source/progit2-2.1.88.zip
+ create mode 100644 doc/资料/Pro Git/Source/progit2-zh-2.1.16.tar.gz
+ create mode 100644 doc/资料/Pro Git/Source/progit2-zh-2.1.16.zip
+ create mode 100644 doc/资料/Pro Git/doc/Pro Git.url
+ create mode 100644 doc/资料/Pro Git/doc/Progit2 GitHub.url
+ create mode 100644 doc/资料/Pro Git/doc/Progit2-zh GitHub.url
+ create mode 100644 doc/资料/Pro Git/doc/Readme.md
+ create mode 100644 doc/资料/Pro Git/down/progit-zh-v2.1.1.pdf
+ create mode 100644 doc/资料/Pro Git/down/progit_v2.1.16.epub
+ create mode 100644 doc/资料/Pro Git/down/progit_v2.1.16.mobi
+ create mode 100644 doc/资料/Pro Git/down/progit_v2.1.16.pdf
+ create mode 100644 doc/资料/SVN与Git的最主要的区别.txt
+ create mode 100644 doc/资料/Subversion的推荐软件.txt
+ create mode 100644 doc/资料/commit 模版/Readme.txt
+ create mode 100644 doc/资料/commit 模版/template_git-master.zip
+ create mode 100644 doc/资料/git clone/git clone几种可选参数的使用与区别.pdf
+ create mode 100644 doc/资料/git submodule & git subtree/FAQ.md
+ create mode 100644 doc/资料/git submodule & git subtree/Git Submodule管理项目子模块.md
+ create mode 100644 doc/资料/git submodule & git subtree/assets/1498391-01faf663d3a99e86.png
+ create mode 100644 doc/资料/git submodule & git subtree/assets/1498391-052efd06525c3734.png
+ create mode 100644 doc/资料/git submodule & git subtree/assets/1498391-ad394c1079c706fd.png
+ create mode 100644 doc/资料/git submodule & git subtree/assets/1498391-f5bc921fe9e48ea3.png
+ create mode 100644 doc/资料/git submodule & git subtree/assets/1498391-fd1504b3c9d02444.png
+ create mode 100644 doc/资料/git submodule & git subtree/git subtree教程.pdf
+ create mode 100644 doc/资料/git submodule & git subtree/git子模块相关.md
+ create mode 100644 doc/资料/git 钩子/Git 钩子.md
+ create mode 100644 doc/资料/git 钩子/Shebang.md
+ create mode 100644 doc/资料/git 钩子/Webhook 实践 —— 自动部署.pdf
+ create mode 100644 doc/资料/git 钩子/assets/.gitkeep
+ create mode 100644 doc/资料/git 钩子/log.md
+ create mode 100644 doc/资料/git 钩子/使用Git Hooks实现开发部署任务自动化.pdf
+ create mode 100644 doc/资料/git 钩子/如何使用Git 钩子来自动化开发和部署任务.docx
+ create mode 100644 doc/资料/gitignore/Git 忽略提交 .gitignore.md
+ create mode 100644 doc/资料/gitignore/Git忽略提交规则.gitignore配置运维总结.pdf
+ create mode 100644 doc/资料/gitignore/gitignore模板/Readme.md
+ create mode 100644 doc/资料/gitignore/gitignore模板/gitignore-master.zip
+ create mode 100644 doc/资料/git与github.txt
+ create mode 100644 doc/资料/git命令流程图解.png
+ create mode 100644 doc/资料/git工作流.png
+ create mode 100644 doc/资料/git常用命令.png
+ create mode 100644 doc/资料/git的配置/assets/1540495409601.png
+ create mode 100644 doc/资料/git的配置/assets/1540495438646.png
+ create mode 100644 doc/资料/git的配置/git的配置.md
+ create mode 100644 doc/资料/如何搭建你自己的 Git 服务器.docx
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages.zip
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/404.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/CNAME
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/README.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/Rakefile
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_config.yml
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_layouts/default.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_layouts/page.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_layouts/post.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-checking-status.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-committing-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-create-a-project.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-making-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-more-setup.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-setup.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-staging-and-committing.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-07-staging-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-08-changes-not-files.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-08-history.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-aliases.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-getting-old-versions.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-tagging-versions.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-undoing-committed-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-undoing-local-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-09-undoing-staged-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-10-remove-the-oops-tag.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-10-removing-commits-from-a-branch.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-11-amending-commits.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-11-more-structure.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-11-moving-files.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-13-git-internals-the-git-directory.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-13-git-internals-working-directly-with-git-objects.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-14-changes-in-master.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-14-creating-a-branch.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-14-navigating-branches.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-15-merging.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-15-viewing-diverging-branches.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-17-creating-a-conflict.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-17-rebasing-vs-merging.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-17-resetting-the-greet-branch.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-17-resolving-conflicts.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-adding-a-remote-repository.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-adding-a-tracking-branch.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-advanced-future-topics.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-bare-repositories.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-change-the-original-repository.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-cloning-repositories.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-fetching-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-hosting-your-git-repositories.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-merging-back-to-master.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-merging-pulled-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-multiple-repositories.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-pulling-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-pulling-shared-changes.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-pushing-a-change.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-rebasing.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-remote-branches.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-resetting-the-master-branch.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-review-the-cloned-repository.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-sharing-repos.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/_posts/2014-04-18-what-is-origin.md
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/about.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/contents.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/css/hgtip/aal.css
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/css/hgtip/calluna.css
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/css/hgtip/style.css
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/css/syntax.css
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/fonts/Calluna-Regular.otf
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/img/git_clone.png
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/img/jim.jpg
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/img/toy.jpg
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/index.html
+ create mode 100644 doc/资料/沉浸式学Git/gitimmersion-gh-pages/newpost
+ create mode 100644 doc/资料/稀疏检出/Git只获取部分目录的内容（稀疏检出）.md
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ���ƹ���  ------------------------
+------------------------ ���ƹ���  ------------------------
+------------------------ YAML���  ------------------------
+���ӵ��ݴ�...
+git�ύ...
+On branch master
+nothing to commit, working tree clean
+------------------------ YAML���  ------------------------
+------------------------ �������  ------------------------
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ git.20181219210953.add ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ git.20181219210953.init ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ git.20181219210953.update ]
+
+ 
+������ģ��������ļ������ɣ��뾡��ת���ļ�
+[ git.20181219210953.del ]
+
+
+------------------------ �������  ------------------------
+########################## �鿴��� ##########################
+
+* master 3b2a215 Commit_1 : + All file
+-----------------------------------------------------------
+commit 3b2a215bee75ef14612dae32a980cdd820169a77
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:24 2018 +0800
+
+    Commit_1 : + All file
+
+commit 424412842c8a4f9ab813b215880c22b1bd034fe5
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:55 2018 +0800
+
+    Commit_0 : init
+
+########################## �鿴��� ##########################

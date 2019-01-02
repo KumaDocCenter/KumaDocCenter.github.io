@@ -1,0 +1,244 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:13:39
+Ê±¼ä´Á£º20181219211339
+Ä¿Â¼Ãû: NoSQL.Redis 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/NoSQL/Redis/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) eb9282e] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\NoSQL\Redis\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 65441eb] Commit_1 : + All file
+ 153 files changed, 5133 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/Redis.md
+ create mode 100644 doc/md/Redisæ¡ˆä¾‹_ä½¿ç”¨PHPå®ç°æ¶ˆæ¯é˜Ÿåˆ—.md
+ create mode 100644 doc/md/assets/1536802433436.png
+ create mode 100644 doc/md/assets/wps93F3.tmp.jpg
+ create mode 100644 doc/md/assets/wps9403.tmp.jpg
+ create mode 100644 doc/md/assets/wps9404.tmp.jpg
+ create mode 100644 doc/md/assets/wps9415.tmp.jpg
+ create mode 100644 doc/md/assets/wps9416.tmp.jpg
+ create mode 100644 doc/md/assets/wps9426.tmp.jpg
+ create mode 100644 doc/md/assets/wps9427.tmp.jpg
+ create mode 100644 doc/md/assets/wps9438.tmp.jpg
+ create mode 100644 doc/md/assets/wps9439.tmp.jpg
+ create mode 100644 doc/md/assets/wps943A.tmp.jpg
+ create mode 100644 doc/md/assets/wps944B.tmp.jpg
+ create mode 100644 doc/md/assets/wps944C.tmp.jpg
+ create mode 100644 doc/md/assets/wps945C.tmp.jpg
+ create mode 100644 doc/md/assets/wps945D.tmp.jpg
+ create mode 100644 doc/md/assets/wps946E.tmp.jpg
+ create mode 100644 doc/md/assets/wps946F.tmp.jpg
+ create mode 100644 doc/md/assets/wps9470.tmp.jpg
+ create mode 100644 doc/md/assets/wps9481.tmp.jpg
+ create mode 100644 doc/md/assets/wps9482.tmp.jpg
+ create mode 100644 doc/md/assets/wps9492.tmp.jpg
+ create mode 100644 doc/md/assets/wps9493.tmp.jpg
+ create mode 100644 doc/md/assets/wps94A4.tmp.jpg
+ create mode 100644 doc/md/assets/wps94A5.tmp.jpg
+ create mode 100644 doc/md/assets/wps94B5.tmp.jpg
+ create mode 100644 doc/md/assets/wps94B6.tmp.jpg
+ create mode 100644 doc/md/assets/wps94C7.tmp.jpg
+ create mode 100644 doc/md/assets/wps94C8.tmp.jpg
+ create mode 100644 doc/md/assets/wps94D9.tmp.jpg
+ create mode 100644 doc/md/assets/wps94DA.tmp.jpg
+ create mode 100644 doc/md/assets/wps94EA.tmp.jpg
+ create mode 100644 doc/md/assets/wps94EB.tmp.jpg
+ create mode 100644 doc/md/assets/wps94EC.tmp.jpg
+ create mode 100644 doc/md/assets/wps94FD.tmp.jpg
+ create mode 100644 doc/md/assets/wps94FE.tmp.jpg
+ create mode 100644 doc/md/assets/wps950F.tmp.jpg
+ create mode 100644 doc/md/assets/wps9510.tmp.jpg
+ create mode 100644 doc/md/assets/wps9520.tmp.jpg
+ create mode 100644 doc/md/assets/wps9521.tmp.jpg
+ create mode 100644 doc/md/assets/wps9532.tmp.jpg
+ create mode 100644 doc/md/assets/wps9533.tmp.jpg
+ create mode 100644 doc/md/assets/wps9534.tmp.jpg
+ create mode 100644 doc/md/assets/wps9544.tmp.jpg
+ create mode 100644 doc/md/assets/wps9545.tmp.jpg
+ create mode 100644 doc/md/assets/wps9556.tmp.jpg
+ create mode 100644 doc/md/assets/wps9557.tmp.jpg
+ create mode 100644 doc/md/assets/wps9568.tmp.jpg
+ create mode 100644 doc/md/assets/wps9569.tmp.jpg
+ create mode 100644 doc/md/assets/wps9579.tmp.jpg
+ create mode 100644 doc/md/assets/wps957A.tmp.jpg
+ create mode 100644 doc/md/assets/wps957B.tmp.jpg
+ create mode 100644 doc/md/assets/wps958C.tmp.jpg
+ create mode 100644 doc/md/assets/wps958D.tmp.jpg
+ create mode 100644 doc/md/assets/wps959E.tmp.jpg
+ create mode 100644 doc/md/assets/wps959F.tmp.jpg
+ create mode 100644 doc/md/assets/wps95AF.tmp.jpg
+ create mode 100644 doc/md/assets/wps95B0.tmp.jpg
+ create mode 100644 doc/md/assets/wps95C1.tmp.jpg
+ create mode 100644 doc/md/assets/wps95C2.tmp.jpg
+ create mode 100644 doc/md/assets/wps95C3.tmp.jpg
+ create mode 100644 doc/md/assets/wps95D3.tmp.jpg
+ create mode 100644 doc/md/assets/wps95D4.tmp.jpg
+ create mode 100644 doc/md/assets/wps95E5.tmp.jpg
+ create mode 100644 doc/md/assets/wps95E6.tmp.jpg
+ create mode 100644 doc/md/assets/wps95F7.tmp.jpg
+ create mode 100644 doc/md/assets/wps95F8.tmp.jpg
+ create mode 100644 doc/md/assets/wps95F9.tmp.jpg
+ create mode 100644 doc/md/assets/wps9609.tmp.jpg
+ create mode 100644 doc/md/assets/wps960A.tmp.jpg
+ create mode 100644 doc/md/assets/wps961B.tmp.jpg
+ create mode 100644 doc/md/assets/wps961C.tmp.jpg
+ create mode 100644 doc/md/assets/wps962D.tmp.jpg
+ create mode 100644 doc/md/assets/wps962E.tmp.jpg
+ create mode 100644 doc/md/assets/wps962F.tmp.jpg
+ create mode 100644 doc/md/assets/wps963F.tmp.jpg
+ create mode 100644 doc/md/assets/wps9640.tmp.jpg
+ create mode 100644 doc/md/assets/wps9651.tmp.jpg
+ create mode 100644 doc/md/assets/wps9652.tmp.jpg
+ create mode 100644 doc/md/assets/wps9662.tmp.jpg
+ create mode 100644 doc/md/assets/wps9663.tmp.jpg
+ create mode 100644 doc/md/assets/wps9664.tmp.jpg
+ create mode 100644 doc/md/assets/wps9675.tmp.jpg
+ create mode 100644 doc/md/assets/wps9676.tmp.jpg
+ create mode 100644 doc/md/assets/wps9687.tmp.jpg
+ create mode 100644 doc/md/assets/wps9688.tmp.jpg
+ create mode 100644 doc/md/assets/wps9698.tmp.jpg
+ create mode 100644 doc/md/assets/wps9699.tmp.jpg
+ create mode 100644 doc/md/assets/wps969A.tmp.jpg
+ create mode 100644 doc/md/assets/wps96AB.tmp.jpg
+ create mode 100644 doc/md/assets/wps96AC.tmp.jpg
+ create mode 100644 doc/md/assets/wps96BD.tmp.jpg
+ create mode 100644 doc/md/assets/wps96BE.tmp.jpg
+ create mode 100644 doc/md/assets/wps96BF.tmp.jpg
+ create mode 100644 doc/md/assets/wps96CF.tmp.jpg
+ create mode 100644 doc/md/assets/wps96D0.tmp.jpg
+ create mode 100644 doc/md/assets/wps96E1.tmp.jpg
+ create mode 100644 doc/md/assets/wps96E2.tmp.jpg
+ create mode 100644 doc/md/assets/wps96F2.tmp.jpg
+ create mode 100644 doc/md/assets/wps96F3.tmp.jpg
+ create mode 100644 doc/md/assets/wps96F4.tmp.jpg
+ create mode 100644 doc/md/assets/wps9705.tmp.jpg
+ create mode 100644 doc/md/assets/wps9706.tmp.jpg
+ create mode 100644 doc/md/assets/wps9717.tmp.jpg
+ create mode 100644 doc/md/assets/wps9718.tmp.jpg
+ create mode 100644 doc/md/assets/wps9728.tmp.jpg
+ create mode 100644 doc/md/assets/wps9729.tmp.jpg
+ create mode 100644 doc/md/assets/wps973A.tmp.jpg
+ create mode 100644 doc/md/assets/wps973B.tmp.jpg
+ create mode 100644 doc/md/assets/wps973C.tmp.jpg
+ create mode 100644 doc/md/assets/wps974D.tmp.jpg
+ create mode 100644 doc/md/assets/wps974E.tmp.jpg
+ create mode 100644 doc/md/assets/wps975E.tmp.jpg
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/Redisä¸­æ–‡å…¥é—¨æ•™ç¨‹.pdf
+ create mode 100644 doc/èµ„æ–™/Rediså‚è€ƒæ‰‹å†Œ.CHM
+ create mode 100644 doc/èµ„æ–™/Rediså¯è§†åŒ–å·¥å…· .md
+ create mode 100644 doc/èµ„æ–™/php-redisä¸­æ–‡å¸®åŠ©æ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/redisé…ç½®æ–‡ä»¶è¯¦è§£.docx
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\NoSQL\Redis\doc\md\index.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\NoSQL\Redis\doc\md\Redis.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\NoSQL\Redis\doc\md\Redis°¸Àı_Ê¹ÓÃPHPÊµÏÖÏûÏ¢¶ÓÁĞ.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master a4aff43] Commit_3 : + md's YAML
+ 3 files changed, 36 insertions(+)
+ create mode 100644 doc/md/Redis.md.YAML
+ create mode 100644 doc/md/Redisæ¡ˆä¾‹_ä½¿ç”¨PHPå®ç°æ¶ˆæ¯é˜Ÿåˆ—.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Redis.20181219211339.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Redis.20181219211339.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Redis.20181219211339.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ NoSQL.Redis.20181219211339.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master a4aff43 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit a4aff43c9be41ed649ffa4145cbe4f2124b8899a
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:24 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 65441eb2c9f292a47ec3a286a1e7887149c8e3bb
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:15:51 2018 +0800
+
+    Commit_1 : + All file
+
+commit eb9282e62000e43ab56e613db835eb7ba2267020
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:54 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

@@ -1,0 +1,324 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:12:23
+Ê±¼ä´Á£º20181219211223
+Ä¿Â¼Ãû: js.NodeJS 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/js/NodeJS/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) d7f5618] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\js\NodeJS\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 9540453] Commit_1 : + All file
+ 221 files changed, 13030 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/nodejs01.md
+ create mode 100644 doc/md/nodejs01/image10.png
+ create mode 100644 doc/md/nodejs01/image11.png
+ create mode 100644 doc/md/nodejs01/image12.png
+ create mode 100644 doc/md/nodejs01/image13.png
+ create mode 100644 doc/md/nodejs01/image14.png
+ create mode 100644 doc/md/nodejs01/image15.png
+ create mode 100644 doc/md/nodejs01/image16.png
+ create mode 100644 doc/md/nodejs01/image17.png
+ create mode 100644 doc/md/nodejs01/image18.png
+ create mode 100644 doc/md/nodejs01/image19.png
+ create mode 100644 doc/md/nodejs01/image2.png
+ create mode 100644 doc/md/nodejs01/image20.png
+ create mode 100644 doc/md/nodejs01/image21.png
+ create mode 100644 doc/md/nodejs01/image22.png
+ create mode 100644 doc/md/nodejs01/image23.png
+ create mode 100644 doc/md/nodejs01/image24.png
+ create mode 100644 doc/md/nodejs01/image25.png
+ create mode 100644 doc/md/nodejs01/image26.png
+ create mode 100644 doc/md/nodejs01/image27.png
+ create mode 100644 doc/md/nodejs01/image28.png
+ create mode 100644 doc/md/nodejs01/image29.png
+ create mode 100644 doc/md/nodejs01/image3.png
+ create mode 100644 doc/md/nodejs01/image30.png
+ create mode 100644 doc/md/nodejs01/image31.png
+ create mode 100644 doc/md/nodejs01/image32.png
+ create mode 100644 doc/md/nodejs01/image33.png
+ create mode 100644 doc/md/nodejs01/image34.png
+ create mode 100644 doc/md/nodejs01/image35.png
+ create mode 100644 doc/md/nodejs01/image36.png
+ create mode 100644 doc/md/nodejs01/image37.png
+ create mode 100644 doc/md/nodejs01/image38.png
+ create mode 100644 doc/md/nodejs01/image39.png
+ create mode 100644 doc/md/nodejs01/image4.png
+ create mode 100644 doc/md/nodejs01/image40.png
+ create mode 100644 doc/md/nodejs01/image41.png
+ create mode 100644 doc/md/nodejs01/image42.png
+ create mode 100644 doc/md/nodejs01/image43.png
+ create mode 100644 doc/md/nodejs01/image44.png
+ create mode 100644 doc/md/nodejs01/image45.png
+ create mode 100644 doc/md/nodejs01/image46.png
+ create mode 100644 doc/md/nodejs01/image47.png
+ create mode 100644 doc/md/nodejs01/image5.png
+ create mode 100644 doc/md/nodejs01/image6.png
+ create mode 100644 doc/md/nodejs01/image7.png
+ create mode 100644 doc/md/nodejs01/image8.png
+ create mode 100644 doc/md/nodejs01/image9.png
+ create mode 100644 doc/md/nodejs02.md
+ create mode 100644 doc/md/nodejs02/image10.png
+ create mode 100644 doc/md/nodejs02/image11.png
+ create mode 100644 doc/md/nodejs02/image12.png
+ create mode 100644 doc/md/nodejs02/image13.png
+ create mode 100644 doc/md/nodejs02/image14.png
+ create mode 100644 doc/md/nodejs02/image15.png
+ create mode 100644 doc/md/nodejs02/image16.png
+ create mode 100644 doc/md/nodejs02/image17.png
+ create mode 100644 doc/md/nodejs02/image18.png
+ create mode 100644 doc/md/nodejs02/image19.png
+ create mode 100644 doc/md/nodejs02/image20.png
+ create mode 100644 doc/md/nodejs02/image21.png
+ create mode 100644 doc/md/nodejs02/image22.png
+ create mode 100644 doc/md/nodejs03.md
+ create mode 100644 doc/md/nodejs03/image10.png
+ create mode 100644 doc/md/nodejs03/image11.png
+ create mode 100644 doc/md/nodejs03/image12.png
+ create mode 100644 doc/md/nodejs03/image13.png
+ create mode 100644 doc/md/nodejs03/image14.png
+ create mode 100644 doc/md/nodejs03/image15.png
+ create mode 100644 doc/md/nodejs03/image16.png
+ create mode 100644 doc/md/nodejs03/image17.png
+ create mode 100644 doc/md/nodejs03/image18.png
+ create mode 100644 doc/md/nodejs03/image19.png
+ create mode 100644 doc/md/nodejs03/image2.png
+ create mode 100644 doc/md/nodejs03/image20.png
+ create mode 100644 doc/md/nodejs03/image21.png
+ create mode 100644 doc/md/nodejs03/image22.png
+ create mode 100644 doc/md/nodejs03/image23.png
+ create mode 100644 doc/md/nodejs03/image3.png
+ create mode 100644 doc/md/nodejs03/image4.jpeg
+ create mode 100644 doc/md/nodejs03/image5.png
+ create mode 100644 doc/md/nodejs03/image6.png
+ create mode 100644 doc/md/nodejs03/image7.png
+ create mode 100644 doc/md/nodejs03/image8.png
+ create mode 100644 doc/md/nodejs03/image9.png
+ create mode 100644 doc/md/nodejs04.md
+ create mode 100644 doc/md/nodejs04/image2.png
+ create mode 100644 doc/md/nodejs04/image3.png
+ create mode 100644 doc/md/nodejs04/image4.png
+ create mode 100644 doc/md/nodejs04/image5.png
+ create mode 100644 doc/md/nodejs04/image6.png
+ create mode 100644 doc/md/nodejs04/image7.png
+ create mode 100644 doc/md/nodejs04/image8.png
+ create mode 100644 doc/md/nodejs05.md
+ create mode 100644 doc/md/nodejs05/image10.png
+ create mode 100644 doc/md/nodejs05/image11.png
+ create mode 100644 doc/md/nodejs05/image2.png
+ create mode 100644 doc/md/nodejs05/image3.png
+ create mode 100644 doc/md/nodejs05/image4.png
+ create mode 100644 doc/md/nodejs05/image5.png
+ create mode 100644 doc/md/nodejs05/image6.png
+ create mode 100644 doc/md/nodejs05/image7.png
+ create mode 100644 doc/md/nodejs05/image8.png
+ create mode 100644 doc/md/nodejs05/image9.png
+ create mode 100644 doc/md/nodejs06.md
+ create mode 100644 doc/md/nodejs06/1542533881927.png
+ create mode 100644 doc/md/nodejs06/image2.png
+ create mode 100644 doc/md/nodejs06/image3.png
+ create mode 100644 doc/md/nodejs06/image4.png
+ create mode 100644 doc/md/nodejs06/image5.png
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/Node.js åˆ›å»ºç¬¬ä¸€ä¸ªåº”ç”¨.pdf
+ create mode 100644 doc/èµ„æ–™/md/Day01/BSæ¶æ„å›¾.png
+ create mode 100644 doc/èµ„æ–™/md/Day01/Node.jså…¥é—¨å’Œä¼ä¸šçº§é¡¹ç›®å®æˆ˜ç¬¬1å¤©.pptx
+ create mode 100644 doc/èµ„æ–™/md/Day01/æ¡ˆä¾‹/part1-BSæ¶æ„å¤ä¹ æ¡ˆä¾‹-æ”¾åˆ°apacheä¸­.zip
+ create mode 100644 doc/èµ„æ–™/md/Day01/æ¡ˆä¾‹/part2-nodejsåŸºç¡€çŸ¥è¯†.zip
+ create mode 100644 doc/èµ„æ–™/md/Day01/æ¡ˆä¾‹/part3-æ¨¡å—çš„æ¦‚å¿µ.zip
+ create mode 100644 doc/èµ„æ–™/md/Day01/æ¡ˆä¾‹/part4-npmçš„ä½¿ç”¨ï¼Œè¯·å…ˆå®‰è£…ä¾èµ–.zip
+ create mode 100644 doc/èµ„æ–™/md/Day01/è¯¾å ‚ç¬”è®°01.docx
+ create mode 100644 doc/èµ„æ–™/md/Day02/æ¡ˆä¾‹/part1-ä½œä¸šè®²è§£.zip
+ create mode 100644 doc/èµ„æ–™/md/Day02/æ¡ˆä¾‹/part2-expressæ¡†æ¶å­¦ä¹ .zip
+ create mode 100644 doc/èµ„æ–™/md/Day02/æ¡ˆä¾‹/part3-GETè¯·æ±‚å’ŒPOSTè¯·æ±‚å‚æ•°çš„è·å¾—.zip
+ create mode 100644 doc/èµ„æ–™/md/Day02/æ¡ˆä¾‹/part4-TodoList.zip
+ create mode 100644 doc/èµ„æ–™/md/Day02/æ¡ˆä¾‹/æ°´å£¶çš„æ•…äº‹.html
+ create mode 100644 doc/èµ„æ–™/md/Day02/è¯¾å ‚ç¬”è®°02.docx
+ create mode 100644 doc/èµ„æ–™/md/Day03/å›¾ç¤ºday03.png
+ create mode 100644 doc/èµ„æ–™/md/Day03/æ¡ˆä¾‹/part1-todoå®Œå–„ç‰ˆæœ¬.zip
+ create mode 100644 doc/èµ„æ–™/md/Day03/æ¡ˆä¾‹/part2-åŸç”Ÿnodejsæ“ä½œæ•°æ®åº“.zip
+ create mode 100644 doc/èµ„æ–™/md/Day03/æ¡ˆä¾‹/part3-mongooseçš„ç®€å•æ¡ˆä¾‹.zip
+ create mode 100644 doc/èµ„æ–™/md/Day03/æ¡ˆä¾‹/part4-å°å°è°ƒæŸ¥è¡¨å•.zip
+ create mode 100644 doc/èµ„æ–™/md/Day03/è¯¾å ‚ç¬”è®°03.docx
+ create mode 100644 doc/èµ„æ–™/md/Day04/å›¾ç¤ºday04.pptx
+ create mode 100644 doc/èµ„æ–™/md/Day04/æ¡ˆä¾‹/part1-å¤ä¹ æ•°æ®åº“å’Œmongoose.zip
+ create mode 100644 doc/èµ„æ–™/md/Day04/æ¡ˆä¾‹/part2-ejsæ¨¡æ¿å¼•æ“.zip
+ create mode 100644 doc/èµ„æ–™/md/Day04/æ¡ˆä¾‹/part3-cookieå°æ¡ˆä¾‹.zip
+ create mode 100644 doc/èµ„æ–™/md/Day04/æ¡ˆä¾‹/part4-sessionå°æ¡ˆä¾‹.zip
+ create mode 100644 doc/èµ„æ–™/md/Day04/æ¡ˆä¾‹/project_qasystem.zip
+ create mode 100644 doc/èµ„æ–™/md/Day04/è¯¾å ‚ç¬”è®°04.docx
+ create mode 100644 doc/èµ„æ–™/md/Day05/æ¡ˆä¾‹/project_qasystem.zip
+ create mode 100644 doc/èµ„æ–™/md/Day05/è¯¾å ‚ç¬”è®°05.docx
+ create mode 100644 doc/èµ„æ–™/md/Day05/è½¯ä»¶/GraphicsMagick-1.3.21-Q16-win32-dll.exe
+ create mode 100644 doc/èµ„æ–™/md/Day05/è½¯ä»¶/GraphicsMagick-1.3.22-Q16-win64-dll.exe
+ create mode 100644 doc/èµ„æ–™/md/Day05/è½¯ä»¶/gmå‘½ä»¤æ¼”ç¤º.txt
+ create mode 100644 doc/èµ„æ–™/md/Day06/æ¡ˆä¾‹/project_qasystem.zip
+ create mode 100644 doc/èµ„æ–™/md/Day06/è¯¾å ‚ç¬”è®°06.docx
+ create mode 100644 doc/èµ„æ–™/node-hello.gif
+ create mode 100644 doc/èµ„æ–™/nodejs.org/Readme.txt
+ create mode 100644 doc/èµ„æ–™/nodejs.org/nodejs.org-master.zip
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/404.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/community.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/governance.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/privacy.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/releases.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/resources.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/trademark.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/about/working-groups.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/es6.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/abi-stability.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/anatomy-of-an-http-transaction.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/backpressuring-in-streams.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/blocking-vs-non-blocking.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/buffer-constructor-deprecation.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/debugging-getting-started.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/domain-postmortem.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/dont-block-the-event-loop.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/getting-started-guide.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/publishing-napi-modules.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/simple-profiling.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/timers-in-node.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/guides/working-with-different-filesystems.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/docs/meta/topics/dependencies.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/download/current.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/download/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/download/package-manager.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/download/releases.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/get-involved/code-and-learn.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/get-involved/collab-summit.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/get-involved/contribute.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/get-involved/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/index.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/security.md
+ create mode 100644 doc/èµ„æ–™/nodejs.org/zh-cn/site.json
+ create mode 100644 doc/èµ„æ–™/ã€ŠNode.jså¼€å‘æŒ‡å—ã€‹.pdf
+ create mode 100644 doc/èµ„æ–™/ä½¿ç”¨Nodeç‰ˆæœ¬ç®¡ç†å™¨/ä½¿ç”¨Nodeç‰ˆæœ¬ç®¡ç†å™¨.md
+ create mode 100644 doc/èµ„æ–™/å®‰è£…åå¦‚ä½•ä»Node.jså¼€å§‹ï¼Ÿ.md
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs01.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs02.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs03.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs04.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs05.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\js\NodeJS\doc\md\nodejs06.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 4cc636e] Commit_3 : + md's YAML
+ 6 files changed, 72 insertions(+)
+ create mode 100644 doc/md/nodejs01.md.YAML
+ create mode 100644 doc/md/nodejs02.md.YAML
+ create mode 100644 doc/md/nodejs03.md.YAML
+ create mode 100644 doc/md/nodejs04.md.YAML
+ create mode 100644 doc/md/nodejs05.md.YAML
+ create mode 100644 doc/md/nodejs06.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.NodeJS.20181219211223.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.NodeJS.20181219211223.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.NodeJS.20181219211223.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ js.NodeJS.20181219211223.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 4cc636e Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 4cc636e21aae35b4767dad13c24b3c27a8be4fe9
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:29 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 95404531e8e74ffe4b82bbd849e5b4302e0060c1
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:03 2018 +0800
+
+    Commit_1 : + All file
+
+commit d7f56180e79ea192cdc0514d26615bc7a15c4a35
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:03 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

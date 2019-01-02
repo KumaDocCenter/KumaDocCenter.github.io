@@ -1,0 +1,151 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:08:37
+Ê±¼ä´Á£º20181219210837
+Ä¿Â¼Ãû: Apache.httpd 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/Apache/httpd/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) dda38f7] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\Apache\httpd\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 927e243] Commit_1 : + All file
+ 64 files changed, 4332 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Apache HTTPæœåŠ¡å™¨é¡¹ç›®æœ¬èº«ä¸æä¾›äºŒè¿›åˆ¶ç‰ˆæœ¬çš„è½¯ä»¶ï¼Œåªæœ‰æºä»£ç .txt
+ create mode 100644 doc/Readme/apache HTTP Server.url
+ create mode 100644 doc/md/apache.md
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/md/note/php_05.png
+ create mode 100644 doc/md/note/php_06.png
+ create mode 100644 doc/md/note/php_07.png
+ create mode 100644 doc/md/note/php_08.png
+ create mode 100644 doc/md/note/php_09.png
+ create mode 100644 doc/md/note/php_10.png
+ create mode 100644 doc/md/note/php_11.png
+ create mode 100644 doc/md/note/php_12.png
+ create mode 100644 doc/md/note/php_13.png
+ create mode 100644 doc/md/note/php_14.png
+ create mode 100644 doc/md/note/php_15.png
+ create mode 100644 doc/md/note/php_16.png
+ create mode 100644 doc/md/note/php_17.png
+ create mode 100644 doc/md/note/php_18.png
+ create mode 100644 doc/md/note/php_19.png
+ create mode 100644 doc/md/note/php_20.png
+ create mode 100644 doc/md/note/php_21.png
+ create mode 100644 doc/md/note/php_22.png
+ create mode 100644 doc/md/note/php_23.png
+ create mode 100644 doc/md/note/php_24.png
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/Apacheæ–‡æ¡£.CHM
+ create mode 100644 doc/èµ„æ–™/ApacheæœåŠ¡å™¨æœ€æ–°ç‰ˆä¸‹è½½ã€å®‰è£…åŠé…ç½®ï¼ˆwinç‰ˆï¼‰.docx
+ create mode 100644 doc/èµ„æ–™/Apacheé…ç½®æ–‡ä»¶è¯¦è§£ä¹‹httpd.confï¼ˆ1ï¼‰.docx
+ create mode 100644 doc/èµ„æ–™/Apacheé…ç½®æ–‡ä»¶è¯¦è§£ä¹‹httpd.confï¼ˆ2ï¼‰.docx
+ create mode 100644 doc/èµ„æ–™/Windowsç”¨æˆ·ï¼Œè¯·å…ˆé˜…è¯»è¿™äº›.docx
+ create mode 100644 doc/èµ„æ–™/[TODO ä¹¦ç­¾ä¸æ­£ç¡®][O'Reillyï¼šApacheç»å…¸å®ä¾‹].(ç§‘å°”ç­‰).O'Reilly.æ‰«æç‰ˆ.pdf
+ create mode 100644 doc/èµ„æ–™/apacheçš„httpd.confç¿»è¯‘.docx
+ create mode 100644 doc/èµ„æ–™/åœ¨Microsoft Windowsä¸Šä½¿ç”¨Apache HTTP Server.docx
+ create mode 100644 down.lnk
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Apache\httpd\doc\md\apache.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Apache\httpd\doc\md\index.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 52063c3] Commit_3 : + md's YAML
+ 2 files changed, 24 insertions(+)
+ create mode 100644 doc/md/apache.md.YAML
+ create mode 100644 doc/md/index.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Apache.httpd.20181219210837.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Apache.httpd.20181219210837.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Apache.httpd.20181219210837.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Apache.httpd.20181219210837.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 52063c3 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 52063c35614aef16d080e3198df4d9c01ee0cffa
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:48 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 927e24371e9b54dd74c28e421ec4677b89ce6a4e
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:45 2018 +0800
+
+    Commit_1 : + All file
+
+commit dda38f7805dd3a68f71b855d41fbc119201610d6
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:08:39 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

@@ -1,0 +1,220 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:09:53
+Ê±¼ä´Á£º20181219210953
+Ä¿Â¼Ãû: Html 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/Html/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 4244128] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\Html\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 579fc0c] Commit_1 : + All file
+ 137 files changed, 5670 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/Readme.md
+ create mode 100644 doc/md/HTMLå’ŒHTML5.md
+ create mode 100644 doc/md/media/2_image1.png
+ create mode 100644 doc/md/media/2_image10.png
+ create mode 100644 doc/md/media/2_image11.png
+ create mode 100644 doc/md/media/2_image12.png
+ create mode 100644 doc/md/media/2_image13.png
+ create mode 100644 doc/md/media/2_image14.png
+ create mode 100644 doc/md/media/2_image15.png
+ create mode 100644 doc/md/media/2_image16.png
+ create mode 100644 doc/md/media/2_image17.png
+ create mode 100644 doc/md/media/2_image18.png
+ create mode 100644 doc/md/media/2_image19.png
+ create mode 100644 doc/md/media/2_image2.png
+ create mode 100644 doc/md/media/2_image20.png
+ create mode 100644 doc/md/media/2_image21.png
+ create mode 100644 doc/md/media/2_image22.png
+ create mode 100644 doc/md/media/2_image23.png
+ create mode 100644 doc/md/media/2_image24.png
+ create mode 100644 doc/md/media/2_image25.png
+ create mode 100644 doc/md/media/2_image26.png
+ create mode 100644 doc/md/media/2_image27.png
+ create mode 100644 doc/md/media/2_image28.png
+ create mode 100644 doc/md/media/2_image29.png
+ create mode 100644 doc/md/media/2_image3.png
+ create mode 100644 doc/md/media/2_image30.png
+ create mode 100644 doc/md/media/2_image4.png
+ create mode 100644 doc/md/media/2_image5.png
+ create mode 100644 doc/md/media/2_image6.png
+ create mode 100644 doc/md/media/2_image7.png
+ create mode 100644 doc/md/media/2_image8.png
+ create mode 100644 doc/md/media/2_image9.png
+ create mode 100644 doc/md/media/form_image1.png
+ create mode 100644 doc/md/media/form_image10.png
+ create mode 100644 doc/md/media/form_image11.png
+ create mode 100644 doc/md/media/form_image12.png
+ create mode 100644 doc/md/media/form_image13.png
+ create mode 100644 doc/md/media/form_image14.png
+ create mode 100644 doc/md/media/form_image15.png
+ create mode 100644 doc/md/media/form_image16.png
+ create mode 100644 doc/md/media/form_image17.png
+ create mode 100644 doc/md/media/form_image18.png
+ create mode 100644 doc/md/media/form_image19.png
+ create mode 100644 doc/md/media/form_image2.png
+ create mode 100644 doc/md/media/form_image20.png
+ create mode 100644 doc/md/media/form_image21.png
+ create mode 100644 doc/md/media/form_image22.png
+ create mode 100644 doc/md/media/form_image23.png
+ create mode 100644 doc/md/media/form_image24.png
+ create mode 100644 doc/md/media/form_image25.png
+ create mode 100644 doc/md/media/form_image26.png
+ create mode 100644 doc/md/media/form_image27.png
+ create mode 100644 doc/md/media/form_image28.png
+ create mode 100644 doc/md/media/form_image29.png
+ create mode 100644 doc/md/media/form_image3.png
+ create mode 100644 doc/md/media/form_image30.png
+ create mode 100644 doc/md/media/form_image31.png
+ create mode 100644 doc/md/media/form_image32.png
+ create mode 100644 doc/md/media/form_image33.png
+ create mode 100644 doc/md/media/form_image34.png
+ create mode 100644 doc/md/media/form_image35.png
+ create mode 100644 doc/md/media/form_image36.png
+ create mode 100644 doc/md/media/form_image37.png
+ create mode 100644 doc/md/media/form_image38.png
+ create mode 100644 doc/md/media/form_image39.png
+ create mode 100644 doc/md/media/form_image4.png
+ create mode 100644 doc/md/media/form_image40.png
+ create mode 100644 doc/md/media/form_image41.png
+ create mode 100644 doc/md/media/form_image42.png
+ create mode 100644 doc/md/media/form_image43.png
+ create mode 100644 doc/md/media/form_image44.png
+ create mode 100644 doc/md/media/form_image45.png
+ create mode 100644 doc/md/media/form_image46.png
+ create mode 100644 doc/md/media/form_image47.png
+ create mode 100644 doc/md/media/form_image5.png
+ create mode 100644 doc/md/media/form_image6.png
+ create mode 100644 doc/md/media/form_image7.png
+ create mode 100644 doc/md/media/form_image8.png
+ create mode 100644 doc/md/media/form_image9.png
+ create mode 100644 doc/md/media/image10.png
+ create mode 100644 doc/md/media/image11.png
+ create mode 100644 doc/md/media/image12.png
+ create mode 100644 doc/md/media/image13.png
+ create mode 100644 doc/md/media/image14.png
+ create mode 100644 doc/md/media/image15.png
+ create mode 100644 doc/md/media/image16.png
+ create mode 100644 doc/md/media/image17.png
+ create mode 100644 doc/md/media/image18.png
+ create mode 100644 doc/md/media/image19.png
+ create mode 100644 doc/md/media/image2.png
+ create mode 100644 doc/md/media/image20.png
+ create mode 100644 doc/md/media/image21.png
+ create mode 100644 doc/md/media/image3.png
+ create mode 100644 doc/md/media/image4.png
+ create mode 100644 doc/md/media/image5.png
+ create mode 100644 doc/md/media/image6.png
+ create mode 100644 doc/md/media/image7.png
+ create mode 100644 doc/md/media/image8.png
+ create mode 100644 doc/md/media/image9.png
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/BOMç»“æ„.jpg
+ create mode 100644 doc/èµ„æ–™/DHTMLå®Œå…¨æ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/DHTMLé»˜è®¤è¡Œä¸ºæ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/DOMæ–‡æ¡£å¯¹è±¡æ¨¡å‹æ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/HTML4 å‚è€ƒæ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/Htmlæ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/html5æ‰‹å†Œ.chm
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Html\doc\md\HTMLºÍHTML5.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 801f7e4] Commit_3 : + md's YAML
+ 1 file changed, 12 insertions(+)
+ create mode 100644 doc/md/HTMLå’ŒHTML5.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Html.20181219210953.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Html.20181219210953.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Html.20181219210953.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Html.20181219210953.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 801f7e4 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 801f7e4c6ea546434fa7c4d480d64b1227211074
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:19 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit 579fc0ca9023d59634522539daba1689a2137c5f
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:10:10 2018 +0800
+
+    Commit_1 : + All file
+
+commit 424412842c8a4f9ab813b215880c22b1bd034fe5
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:09:55 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################

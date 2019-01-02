@@ -1,0 +1,323 @@
+Ö´ĞĞ²Ù×÷... 
+ÈÕÆÚÊ±¼ä£º2018-12-19 21:13:22
+Ê±¼ä´Á£º20181219211322
+Ä¿Â¼Ãû: Mysql 
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+³õÊ¼»¯²Ö¿â...
+Initialized empty Git repository in K:/DevDocCenter/Mysql/.git/
+ÅäÖÃÓÃ»§Ãû...
+ÅäÖÃÓÊÏä... 
+ÅäÖÃÌá½»»º´æ...
+Ìí¼ÓÔ¶³Ì²Ö¿â...
+------------------------ ²Ö¿âÅäÖÃ  ------------------------ 
+------------------------START: Commit_0  ------------------------ 
+Êä³ö .gitignore...
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master (root-commit) 6083740] Commit_0 : init
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+------------------------END: Commit_0  ------------------------ 
+------------------------START: Commit_1  ------------------------ 
+Êä³ö .gitignore...
+¸´ÖÆ .gitattributes... 
+K:\DevDocCenter\Mysql\Script\sh\.gitattributes
+¸´ÖÆÁË 1 ¸öÎÄ¼ş
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master c898d09] Commit_1 : + All file
+ 196 files changed, 7374 insertions(+)
+ create mode 100644 .gitattributes
+ create mode 100644 Script/Readme.md
+ create mode 100644 Script/hook/SubModule/post-commit
+ create mode 100644 Script/hook/pre-commit
+ create mode 100644 Script/sh/.gitattributes
+ create mode 100644 Script/sh/CallX.bat
+ create mode 100644 Script/sh/Copy_hook_submodule.bat
+ create mode 100644 Script/sh/Copy_public_git_To_public.bat
+ create mode 100644 Script/sh/ReadConf.bat
+ create mode 100644 Script/sh/YAML
+ create mode 100644 Script/sh/YAMLwrite.bat
+ create mode 100644 Script/sh/conf.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.add
+ create mode 100644 Script/sh/git_submodule/Template/Template.bat
+ create mode 100644 Script/sh/git_submodule/Template/Template.del
+ create mode 100644 Script/sh/git_submodule/Template/Template.init
+ create mode 100644 Script/sh/git_submodule/Template/Template.update
+ create mode 100644 Script/sh/info.bat
+ create mode 100644 Script/sh/init.bat
+ create mode 100644 Script/sh/init.bat.1
+ create mode 100644 Script/sh/repair_public_link.bat
+ create mode 100644 Script/sh/sparse-checkout
+ create mode 100644 Script/sh/start.bat
+ create mode 100644 Script/sh/submodule.bat
+ create mode 100644 Script/sh/submodule_batch.bat
+ create mode 100644 Script/sh/submodule_hanlde.bat
+ create mode 100644 Script/sh/submodule_sparse_checkout.bat
+ create mode 100644 Script/sh/write_copy_status.bat
+ create mode 100644 doc/Readme/.gitkeep
+ create mode 100644 doc/md/index.md
+ create mode 100644 doc/md/mysql.md
+ create mode 100644 doc/md/mysql_charset_collate.md
+ create mode 100644 doc/md/mysql_constraint.md
+ create mode 100644 doc/md/mysql_datatype.md
+ create mode 100644 doc/md/mysql_manage.md
+ create mode 100644 doc/md/mysql_manipulation.md
+ create mode 100644 doc/md/mysql_programme.md
+ create mode 100644 doc/md/mysql_select.md
+ create mode 100644 doc/md/mysql_view.md
+ create mode 100644 doc/md/note/1536906389_image1.png
+ create mode 100644 doc/md/note/1536906389_image10.png
+ create mode 100644 doc/md/note/1536906389_image11.png
+ create mode 100644 doc/md/note/1536906389_image12.png
+ create mode 100644 doc/md/note/1536906389_image13.png
+ create mode 100644 doc/md/note/1536906389_image14.png
+ create mode 100644 doc/md/note/1536906389_image15.png
+ create mode 100644 doc/md/note/1536906389_image16.png
+ create mode 100644 doc/md/note/1536906389_image17.png
+ create mode 100644 doc/md/note/1536906389_image18.png
+ create mode 100644 doc/md/note/1536906389_image19.png
+ create mode 100644 doc/md/note/1536906389_image2.png
+ create mode 100644 doc/md/note/1536906389_image20.png
+ create mode 100644 doc/md/note/1536906389_image21.png
+ create mode 100644 doc/md/note/1536906389_image22.png
+ create mode 100644 doc/md/note/1536906389_image23.png
+ create mode 100644 doc/md/note/1536906389_image24.png
+ create mode 100644 doc/md/note/1536906389_image25.png
+ create mode 100644 doc/md/note/1536906389_image26.png
+ create mode 100644 doc/md/note/1536906389_image27.png
+ create mode 100644 doc/md/note/1536906389_image28.png
+ create mode 100644 doc/md/note/1536906389_image29.png
+ create mode 100644 doc/md/note/1536906389_image3.png
+ create mode 100644 doc/md/note/1536906389_image30.png
+ create mode 100644 doc/md/note/1536906389_image31.png
+ create mode 100644 doc/md/note/1536906389_image32.png
+ create mode 100644 doc/md/note/1536906389_image33.png
+ create mode 100644 doc/md/note/1536906389_image34.png
+ create mode 100644 doc/md/note/1536906389_image35.png
+ create mode 100644 doc/md/note/1536906389_image36.png
+ create mode 100644 doc/md/note/1536906389_image37.png
+ create mode 100644 doc/md/note/1536906389_image38.png
+ create mode 100644 doc/md/note/1536906389_image39.png
+ create mode 100644 doc/md/note/1536906389_image4.png
+ create mode 100644 doc/md/note/1536906389_image40.png
+ create mode 100644 doc/md/note/1536906389_image41.png
+ create mode 100644 doc/md/note/1536906389_image42.png
+ create mode 100644 doc/md/note/1536906389_image43.png
+ create mode 100644 doc/md/note/1536906389_image44.png
+ create mode 100644 doc/md/note/1536906389_image45.png
+ create mode 100644 doc/md/note/1536906389_image46.png
+ create mode 100644 doc/md/note/1536906389_image47.png
+ create mode 100644 doc/md/note/1536906389_image48.png
+ create mode 100644 doc/md/note/1536906389_image49.png
+ create mode 100644 doc/md/note/1536906389_image5.png
+ create mode 100644 doc/md/note/1536906389_image50.png
+ create mode 100644 doc/md/note/1536906389_image6.png
+ create mode 100644 doc/md/note/1536906389_image7.png
+ create mode 100644 doc/md/note/1536906389_image8.png
+ create mode 100644 doc/md/note/1536906389_image9.png
+ create mode 100644 doc/md/note/alter_database.png
+ create mode 100644 doc/md/note/alter_table_option.png
+ create mode 100644 doc/md/note/client_charset_show.png
+ create mode 100644 doc/md/note/clip_image001-1529568555804.png
+ create mode 100644 doc/md/note/clip_image001-1529568600124.png
+ create mode 100644 doc/md/note/clip_image001-1529568622911.png
+ create mode 100644 doc/md/note/clip_image001-1529568642067.png
+ create mode 100644 doc/md/note/clip_image001-1529568922307.png
+ create mode 100644 doc/md/note/clip_image001.png
+ create mode 100644 doc/md/note/clip_image002.png
+ create mode 100644 doc/md/note/clip_image003.png
+ create mode 100644 doc/md/note/clip_image004.png
+ create mode 100644 doc/md/note/clip_image005.png
+ create mode 100644 doc/md/note/clip_image006.png
+ create mode 100644 doc/md/note/clip_image007.png
+ create mode 100644 doc/md/note/clip_image008.png
+ create mode 100644 doc/md/note/clip_image009.png
+ create mode 100644 doc/md/note/cmd_mysql_client.png
+ create mode 100644 doc/md/note/desc_table.png
+ create mode 100644 doc/md/note/foreignkey01.png
+ create mode 100644 doc/md/note/foreignkey02.png
+ create mode 100644 doc/md/note/insert_column.png
+ create mode 100644 doc/md/note/mysql_character_collation.png
+ create mode 100644 doc/md/note/mysql_client.png
+ create mode 100644 doc/md/note/mysql_datadir.png
+ create mode 100644 doc/md/note/mysql_datatype_01.png
+ create mode 100644 doc/md/note/mysql_datatype_02.png
+ create mode 100644 doc/md/note/mysql_datatype_03.png
+ create mode 100644 doc/md/note/mysql_datatype_04.png
+ create mode 100644 doc/md/note/mysql_datatype_05.png
+ create mode 100644 doc/md/note/mysql_datatype_06.png
+ create mode 100644 doc/md/note/mysql_datatype_07.png
+ create mode 100644 doc/md/note/mysql_datatype_08.png
+ create mode 100644 doc/md/note/mysql_datatype_09.png
+ create mode 100644 doc/md/note/mysql_key_01.png
+ create mode 100644 doc/md/note/mysql_key_02.png
+ create mode 100644 doc/md/note/mysql_liucheng.png
+ create mode 100644 doc/md/note/mysql_manage_01.png
+ create mode 100644 doc/md/note/mysql_manage_02.png
+ create mode 100644 doc/md/note/mysql_manage_03.png
+ create mode 100644 doc/md/note/mysql_manage_04.png
+ create mode 100644 doc/md/note/mysql_manage_05.png
+ create mode 100644 doc/md/note/mysql_manage_06.png
+ create mode 100644 doc/md/note/mysql_select_01.png
+ create mode 100644 doc/md/note/mysql_select_02.png
+ create mode 100644 doc/md/note/mysql_select_03.png
+ create mode 100644 doc/md/note/mysql_select_04.png
+ create mode 100644 doc/md/note/mysql_select_05.png
+ create mode 100644 doc/md/note/mysql_select_06.png
+ create mode 100644 doc/md/note/mysql_select_07.png
+ create mode 100644 doc/md/note/mysql_select_08.png
+ create mode 100644 doc/md/note/mysql_select_09.png
+ create mode 100644 doc/md/note/mysql_select_10.png
+ create mode 100644 doc/md/note/mysql_select_11.png
+ create mode 100644 doc/md/note/mysql_select_12.png
+ create mode 100644 doc/md/note/mysql_select_13.png
+ create mode 100644 doc/md/note/mysql_select_14.png
+ create mode 100644 doc/md/note/mysql_select_15.png
+ create mode 100644 doc/md/note/mysql_select_16.png
+ create mode 100644 doc/md/note/mysql_select_17.png
+ create mode 100644 doc/md/note/mysql_select_18.png
+ create mode 100644 doc/md/note/mysql_select_19.png
+ create mode 100644 doc/md/note/procedure.png
+ create mode 100644 doc/md/note/show_databases_like.png
+ create mode 100644 doc/md/note/show_var_char.png
+ create mode 100644 doc/md/note/table_NF_01.png
+ create mode 100644 doc/md/note/table_NF_02.png
+ create mode 100644 doc/md/note/table_NF_03.png
+ create mode 100644 doc/md/note/table_NF_04.png
+ create mode 100644 doc/md/note/table_relation_01.png
+ create mode 100644 doc/md/note/table_relation_02.png
+ create mode 100644 doc/md/note/table_relation_03.png
+ create mode 100644 doc/md/note/table_relation_04.png
+ create mode 100644 doc/md/note/view1.png
+ create mode 100644 doc/md/note/view2.png
+ create mode 100644 doc/md/note/view3.png
+ create mode 100644 doc/md/note/view4.png
+ create mode 100644 doc/md/note/view5.png
+ create mode 100644 doc/md/note/view6.png
+ create mode 100644 doc/md/note/win_service_manage.png
+ create mode 100644 doc/md/table_NormalFormat.md
+ create mode 100644 doc/md/table_relation.md
+ create mode 100644 doc/æ‰‹å†Œ/.gitkeep
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-30-05.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-30-23.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-30-34.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-30-50.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-31-06.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-31-24.png
+ create mode 100644 doc/èµ„æ–™/MySQL installer conf/Snipaste_2018-06-08_10-49-05.png
+ create mode 100644 doc/èµ„æ–™/MySQL5.1ä¸­æ–‡å‚è€ƒæ‰‹å†Œ.chm
+ create mode 100644 doc/èµ„æ–™/MySqlå‚è€ƒæ‰‹å†Œ-æ–°.CHM
+ create mode 100644 doc/èµ„æ–™/PIC/Mysql-01.png
+ create mode 100644 doc/èµ„æ–™/PIC/Mysql-02-01.png
+ create mode 100644 doc/èµ„æ–™/PIC/Mysql-02-02.png
+ create mode 100644 doc/èµ„æ–™/PIC/Mysql-02-03.png
+ create mode 100644 doc/èµ„æ–™/PIC/Mysql-03-01.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-05_23-26-46.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_20-48-15.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_20-49-37.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_22-45-06.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_22-45-36.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_22-47-32.png
+ create mode 100644 doc/èµ„æ–™/PIC/Snipaste_2018-06-07_23-51-43.png
+ create mode 100644 doc/èµ„æ–™/PIC/æ›´æ”¹å®‰è£…ç›®å½•.png
+ create mode 100644 video.lnk
+------------------------END: Commit_1  ------------------------ 
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ ¸´ÖÆ¹³×Ó  ------------------------
+------------------------ YAMLÊä³ö  ------------------------
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\index.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_charset_collate.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_constraint.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_datatype.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_manage.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_manipulation.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_programme.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_select.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\mysql_view.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\table_NormalFormat.md.YAML ]
+
+ÒÑ¸´ÖÆ         1 ¸öÎÄ¼ş¡£
+Êä³öÎÄ¼ş [ K:\DevDocCenter\Mysql\doc\md\table_relation.md.YAML ]
+
+Ìí¼Óµ½Ôİ´æ...
+gitÌá½»...
+[master 37910a1] Commit_3 : + md's YAML
+ 12 files changed, 144 insertions(+)
+ create mode 100644 doc/md/index.md.YAML
+ create mode 100644 doc/md/mysql.md.YAML
+ create mode 100644 doc/md/mysql_charset_collate.md.YAML
+ create mode 100644 doc/md/mysql_constraint.md.YAML
+ create mode 100644 doc/md/mysql_datatype.md.YAML
+ create mode 100644 doc/md/mysql_manage.md.YAML
+ create mode 100644 doc/md/mysql_manipulation.md.YAML
+ create mode 100644 doc/md/mysql_programme.md.YAML
+ create mode 100644 doc/md/mysql_select.md.YAML
+ create mode 100644 doc/md/mysql_view.md.YAML
+ create mode 100644 doc/md/table_NormalFormat.md.YAML
+ create mode 100644 doc/md/table_relation.md.YAML
+------------------------ YAMLÊä³ö  ------------------------
+------------------------ ÅäÖÃÊä³ö  ------------------------
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Mysql.20181219211322.add ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Mysql.20181219211322.init ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Mysql.20181219211322.update ]
+
+ 
+ÓÃÓÚ×ÓÄ£¿éµÄÅäÖÃÎÄ¼şÒÑÉú³É£¬Çë¾¡¿ì×ªÒÆÎÄ¼ş
+[ Mysql.20181219211322.del ]
+
+
+------------------------ ÅäÖÃÊä³ö  ------------------------
+########################## ²é¿´½á¹û ##########################
+
+* master 37910a1 Commit_3 : + md's YAML
+-----------------------------------------------------------
+commit 37910a12bb1054a6295536164e5b99c4a9b7ced4
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:16:30 2018 +0800
+
+    Commit_3 : + md's YAML
+
+commit c898d093fad8493e6db2f9a9f4007b4af1c6e118
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:15:55 2018 +0800
+
+    Commit_1 : + All file
+
+commit 6083740756728c7d8c49076b3e9340d37d8337c7
+Author: kuma8866 <kuma8866@163.com>
+Date:   Wed Dec 19 21:13:33 2018 +0800
+
+    Commit_0 : init
+
+########################## ²é¿´½á¹û ##########################
